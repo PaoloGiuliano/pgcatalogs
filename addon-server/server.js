@@ -17,6 +17,9 @@ require("dotenv").config();
 
 const app = express();
 app.set("trust proxy", 1);
+app.set("views", path.join(__dirname, "views"));
+app.set("view engine", "ejs");
+app.use(express.static(path.join(__dirname, "public")));
 
 // SESSION
 app.use(session({
@@ -540,14 +543,14 @@ app.post("/catalogs/:id/edit", ensureLoggedIn, async (req, res) => {
         .get(catalogId, req.user.id);
 
     if (!existing) return res.send("<p>Catalog not found.</p>");
-
+    console.log(req.body.genres)
     const config = {
         start_year: parseInt(req.body.start_year),
         end_year: parseInt(req.body.end_year),
         pages: parseInt(req.body.pages),
         language: req.body.language,
         sort_by: req.body.sort_by,
-        genres: req.body.genres.split(",").map(g => g.trim()),
+        genres: req.body.genres,
         min_critic_score: parseInt(req.body.min_critic_score)
     };
 
@@ -624,7 +627,7 @@ app.get("/addon/user/:uuid/manifest.json", (req, res) => {
               },
               {
                 name: "genre",
-                options:["Action", "Comedy", "Drama"],
+                options: ["","",""],
                 isRequired: false
               }
             ],

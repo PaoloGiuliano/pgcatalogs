@@ -44489,7 +44489,7 @@
     "metascore": null,
     "imdb": null,
     "rt": null,
-    "fetched_at": "2025-12-11T16:27:35.529Z"
+    "fetched_at": "2025-12-13T01:47:55.751Z"
   },
   "tt2096673": {
     "imdb_id": "tt2096673",
@@ -44797,7 +44797,7 @@
     "metascore": null,
     "imdb": null,
     "rt": null,
-    "fetched_at": "2025-12-11T16:27:35.722Z"
+    "fetched_at": "2025-12-13T01:47:56.336Z"
   },
   "tt0367594": {
     "imdb_id": "tt0367594",
@@ -46743,7 +46743,7 @@
     "metascore": null,
     "imdb": null,
     "rt": null,
-    "fetched_at": "2025-12-11T16:27:36.873Z"
+    "fetched_at": "2025-12-13T01:47:57.536Z"
   },
   "tt1596363": {
     "imdb_id": "tt1596363",
@@ -66687,5 +66687,7075 @@
     "imdb": 1.9,
     "rt": 1,
     "fetched_at": "2025-12-11T20:35:16.917Z"
+  },
+  "tt0792992": {
+    "imdb_id": "tt0792992",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:44:01.952Z"
+  },
+  "tt1866249": {
+    "imdb_id": "tt1866249",
+    "metascore": 79,
+    "imdb": 7.2,
+    "rt": 91,
+    "fetched_at": "2025-12-13T01:47:56.968Z"
+  },
+  "tt13782052": {
+    "imdb_id": "tt13782052",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:47:58.682Z"
+  },
+  "tt21103300": {
+    "imdb_id": "tt21103300",
+    "metascore": 35,
+    "imdb": 5.2,
+    "rt": 31,
+    "fetched_at": "2025-12-13T01:47:58.921Z"
+  },
+  "tt1182350": {
+    "imdb_id": "tt1182350",
+    "metascore": 51,
+    "imdb": 6.3,
+    "rt": 46,
+    "fetched_at": "2025-12-13T01:47:59.017Z"
+  },
+  "tt8707922": {
+    "imdb_id": "tt8707922",
+    "metascore": 35,
+    "imdb": 5.4,
+    "rt": 30,
+    "fetched_at": "2025-12-13T01:47:59.325Z"
+  },
+  "tt0424993": {
+    "imdb_id": "tt0424993",
+    "metascore": 36,
+    "imdb": 5.6,
+    "rt": 20,
+    "fetched_at": "2025-12-13T01:47:59.387Z"
+  },
+  "tt0403702": {
+    "imdb_id": "tt0403702",
+    "metascore": 63,
+    "imdb": 6.4,
+    "rt": 66,
+    "fetched_at": "2025-12-13T01:47:59.435Z"
+  },
+  "tt2063666": {
+    "imdb_id": "tt2063666",
+    "metascore": 62,
+    "imdb": 6.2,
+    "rt": 74,
+    "fetched_at": "2025-12-13T01:47:59.634Z"
+  },
+  "tt3468380": {
+    "imdb_id": "tt3468380",
+    "metascore": 52,
+    "imdb": 5.6,
+    "rt": 70,
+    "fetched_at": "2025-12-13T01:47:59.656Z"
+  },
+  "tt0118691": {
+    "imdb_id": "tt0118691",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:47:59.711Z"
+  },
+  "tt0118842": {
+    "imdb_id": "tt0118842",
+    "metascore": 71,
+    "imdb": 7.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T01:47:59.779Z"
+  },
+  "tt0290002": {
+    "imdb_id": "tt0290002",
+    "metascore": 41,
+    "imdb": 6.4,
+    "rt": 38,
+    "fetched_at": "2025-12-13T01:47:59.780Z"
+  },
+  "tt0089370": {
+    "imdb_id": "tt0089370",
+    "metascore": 53,
+    "imdb": 6.1,
+    "rt": 48,
+    "fetched_at": "2025-12-13T01:47:59.889Z"
+  },
+  "tt1134629": {
+    "imdb_id": "tt1134629",
+    "metascore": 49,
+    "imdb": 6.3,
+    "rt": 69,
+    "fetched_at": "2025-12-13T01:47:59.918Z"
+  },
+  "tt4429160": {
+    "imdb_id": "tt4429160",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:00.015Z"
+  },
+  "tt3908142": {
+    "imdb_id": "tt3908142",
+    "metascore": 82,
+    "imdb": 6.2,
+    "rt": 95,
+    "fetched_at": "2025-12-13T01:48:00.333Z"
+  },
+  "tt0116672": {
+    "imdb_id": "tt0116672",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:00.389Z"
+  },
+  "tt9683478": {
+    "imdb_id": "tt9683478",
+    "metascore": 74,
+    "imdb": 6.9,
+    "rt": 97,
+    "fetched_at": "2025-12-13T01:48:00.427Z"
+  },
+  "tt0100112": {
+    "imdb_id": "tt0100112",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 92,
+    "fetched_at": "2025-12-13T01:48:00.494Z"
+  },
+  "tt0493171": {
+    "imdb_id": "tt0493171",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:00.519Z"
+  },
+  "tt3760922": {
+    "imdb_id": "tt3760922",
+    "metascore": 37,
+    "imdb": 6,
+    "rt": 28,
+    "fetched_at": "2025-12-13T01:48:00.561Z"
+  },
+  "tt7645122": {
+    "imdb_id": "tt7645122",
+    "metascore": 65,
+    "imdb": 6.6,
+    "rt": 88,
+    "fetched_at": "2025-12-13T01:48:00.788Z"
+  },
+  "tt0240462": {
+    "imdb_id": "tt0240462",
+    "metascore": 49,
+    "imdb": 4.7,
+    "rt": 41,
+    "fetched_at": "2025-12-13T01:48:00.821Z"
+  },
+  "tt0107438": {
+    "imdb_id": "tt0107438",
+    "metascore": 26,
+    "imdb": 4.4,
+    "rt": 0,
+    "fetched_at": "2025-12-13T01:48:00.822Z"
+  },
+  "tt0062407": {
+    "imdb_id": "tt0062407",
+    "metascore": 78,
+    "imdb": 7.4,
+    "rt": 83,
+    "fetched_at": "2025-12-13T01:48:00.878Z"
+  },
+  "tt0422861": {
+    "imdb_id": "tt0422861",
+    "metascore": 48,
+    "imdb": 5.5,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:48:00.945Z"
+  },
+  "tt6731862": {
+    "imdb_id": "tt6731862",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:00.947Z"
+  },
+  "tt0054698": {
+    "imdb_id": "tt0054698",
+    "metascore": 77,
+    "imdb": 7.5,
+    "rt": 88,
+    "fetched_at": "2025-12-13T01:48:00.949Z"
+  },
+  "tt14371818": {
+    "imdb_id": "tt14371818",
+    "metascore": null,
+    "imdb": null,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:01.006Z"
+  },
+  "tt9619798": {
+    "imdb_id": "tt9619798",
+    "metascore": 33,
+    "imdb": 5.8,
+    "rt": 33,
+    "fetched_at": "2025-12-13T01:48:01.013Z"
+  },
+  "tt0200550": {
+    "imdb_id": "tt0200550",
+    "metascore": 27,
+    "imdb": 5.8,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:48:01.030Z"
+  },
+  "tt0104695": {
+    "imdb_id": "tt0104695",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 64,
+    "fetched_at": "2025-12-13T01:48:01.063Z"
+  },
+  "tt3464902": {
+    "imdb_id": "tt3464902",
+    "metascore": 82,
+    "imdb": 7.1,
+    "rt": 87,
+    "fetched_at": "2025-12-13T01:48:01.090Z"
+  },
+  "tt1391137": {
+    "imdb_id": "tt1391137",
+    "metascore": 43,
+    "imdb": 4.7,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:01.092Z"
+  },
+  "tt6911608": {
+    "imdb_id": "tt6911608",
+    "metascore": 60,
+    "imdb": 6.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T01:48:01.150Z"
+  },
+  "tt1381418": {
+    "imdb_id": "tt1381418",
+    "metascore": null,
+    "imdb": 5.4,
+    "rt": 0,
+    "fetched_at": "2025-12-13T01:48:01.155Z"
+  },
+  "tt0319524": {
+    "imdb_id": "tt0319524",
+    "metascore": 45,
+    "imdb": 5.6,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:01.221Z"
+  },
+  "tt1045658": {
+    "imdb_id": "tt1045658",
+    "metascore": 81,
+    "imdb": 7.7,
+    "rt": 92,
+    "fetched_at": "2025-12-13T01:48:01.226Z"
+  },
+  "tt6869362": {
+    "imdb_id": "tt6869362",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:01.304Z"
+  },
+  "tt0116242": {
+    "imdb_id": "tt0116242",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 77,
+    "fetched_at": "2025-12-13T01:48:01.322Z"
+  },
+  "tt10941528": {
+    "imdb_id": "tt10941528",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:01.356Z"
+  },
+  "tt0758752": {
+    "imdb_id": "tt0758752",
+    "metascore": 55,
+    "imdb": 6.7,
+    "rt": 49,
+    "fetched_at": "2025-12-13T01:48:01.390Z"
+  },
+  "tt1014775": {
+    "imdb_id": "tt1014775",
+    "metascore": 41,
+    "imdb": 4,
+    "rt": 41,
+    "fetched_at": "2025-12-13T01:48:01.439Z"
+  },
+  "tt28105944": {
+    "imdb_id": "tt28105944",
+    "metascore": null,
+    "imdb": 5.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:01.441Z"
+  },
+  "tt2474024": {
+    "imdb_id": "tt2474024",
+    "metascore": 60,
+    "imdb": 5.9,
+    "rt": 59,
+    "fetched_at": "2025-12-13T01:48:01.513Z"
+  },
+  "tt0120791": {
+    "imdb_id": "tt0120791",
+    "metascore": 47,
+    "imdb": 6.3,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:01.567Z"
+  },
+  "tt0286788": {
+    "imdb_id": "tt0286788",
+    "metascore": 41,
+    "imdb": 5.8,
+    "rt": 34,
+    "fetched_at": "2025-12-13T01:48:01.661Z"
+  },
+  "tt21830902": {
+    "imdb_id": "tt21830902",
+    "metascore": 59,
+    "imdb": 6.1,
+    "rt": 76,
+    "fetched_at": "2025-12-13T01:48:01.713Z"
+  },
+  "tt0328589": {
+    "imdb_id": "tt0328589",
+    "metascore": 52,
+    "imdb": 6.7,
+    "rt": 62,
+    "fetched_at": "2025-12-13T01:48:01.767Z"
+  },
+  "tt4466936": {
+    "imdb_id": "tt4466936",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:01.777Z"
+  },
+  "tt0192071": {
+    "imdb_id": "tt0192071",
+    "metascore": 52,
+    "imdb": 5.7,
+    "rt": 43,
+    "fetched_at": "2025-12-13T01:48:01.826Z"
+  },
+  "tt8954732": {
+    "imdb_id": "tt8954732",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 63,
+    "fetched_at": "2025-12-13T01:48:01.894Z"
+  },
+  "tt4686862": {
+    "imdb_id": "tt4686862",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T01:48:01.941Z"
+  },
+  "tt0116695": {
+    "imdb_id": "tt0116695",
+    "metascore": 77,
+    "imdb": 7.3,
+    "rt": 84,
+    "fetched_at": "2025-12-13T01:48:01.983Z"
+  },
+  "tt0081480": {
+    "imdb_id": "tt0081480",
+    "metascore": 58,
+    "imdb": 6.7,
+    "rt": 70,
+    "fetched_at": "2025-12-13T01:48:01.995Z"
+  },
+  "tt0097778": {
+    "imdb_id": "tt0097778",
+    "metascore": 51,
+    "imdb": 5.9,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:02.045Z"
+  },
+  "tt0461770": {
+    "imdb_id": "tt0461770",
+    "metascore": 75,
+    "imdb": 7.1,
+    "rt": 93,
+    "fetched_at": "2025-12-13T01:48:02.062Z"
+  },
+  "tt1598822": {
+    "imdb_id": "tt1598822",
+    "metascore": 22,
+    "imdb": 5.6,
+    "rt": 7,
+    "fetched_at": "2025-12-13T01:48:02.117Z"
+  },
+  "tt0467406": {
+    "imdb_id": "tt0467406",
+    "metascore": 81,
+    "imdb": 7.4,
+    "rt": 93,
+    "fetched_at": "2025-12-13T01:48:02.125Z"
+  },
+  "tt0478311": {
+    "imdb_id": "tt0478311",
+    "metascore": 85,
+    "imdb": 6.9,
+    "rt": 90,
+    "fetched_at": "2025-12-13T01:48:02.158Z"
+  },
+  "tt0358349": {
+    "imdb_id": "tt0358349",
+    "metascore": 32,
+    "imdb": 4.5,
+    "rt": 13,
+    "fetched_at": "2025-12-13T01:48:02.200Z"
+  },
+  "tt0243155": {
+    "imdb_id": "tt0243155",
+    "metascore": 66,
+    "imdb": 6.8,
+    "rt": 79,
+    "fetched_at": "2025-12-13T01:48:02.203Z"
+  },
+  "tt0061722": {
+    "imdb_id": "tt0061722",
+    "metascore": 83,
+    "imdb": 8,
+    "rt": 87,
+    "fetched_at": "2025-12-13T01:48:02.261Z"
+  },
+  "tt0866437": {
+    "imdb_id": "tt0866437",
+    "metascore": 61,
+    "imdb": 6.7,
+    "rt": 66,
+    "fetched_at": "2025-12-13T01:48:02.272Z"
+  },
+  "tt1667100": {
+    "imdb_id": "tt1667100",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.361Z"
+  },
+  "tt0240890": {
+    "imdb_id": "tt0240890",
+    "metascore": 52,
+    "imdb": 6.8,
+    "rt": 58,
+    "fetched_at": "2025-12-13T01:48:02.368Z"
+  },
+  "tt1000774": {
+    "imdb_id": "tt1000774",
+    "metascore": 53,
+    "imdb": 5.7,
+    "rt": 50,
+    "fetched_at": "2025-12-13T01:48:02.414Z"
+  },
+  "tt21226774": {
+    "imdb_id": "tt21226774",
+    "metascore": null,
+    "imdb": 4.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.423Z"
+  },
+  "tt0256415": {
+    "imdb_id": "tt0256415",
+    "metascore": 45,
+    "imdb": 6.2,
+    "rt": 38,
+    "fetched_at": "2025-12-13T01:48:02.483Z"
+  },
+  "tt1186788": {
+    "imdb_id": "tt1186788",
+    "metascore": null,
+    "imdb": 4.2,
+    "rt": 20,
+    "fetched_at": "2025-12-13T01:48:02.494Z"
+  },
+  "tt15360916": {
+    "imdb_id": "tt15360916",
+    "metascore": null,
+    "imdb": 5.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.583Z"
+  },
+  "tt0328828": {
+    "imdb_id": "tt0328828",
+    "metascore": 43,
+    "imdb": 6.3,
+    "rt": 53,
+    "fetched_at": "2025-12-13T01:48:02.587Z"
+  },
+  "tt0076852": {
+    "imdb_id": "tt0076852",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.630Z"
+  },
+  "tt14456350": {
+    "imdb_id": "tt14456350",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 63,
+    "fetched_at": "2025-12-13T01:48:02.641Z"
+  },
+  "tt0821640": {
+    "imdb_id": "tt0821640",
+    "metascore": 34,
+    "imdb": 5.8,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:02.707Z"
+  },
+  "tt5436082": {
+    "imdb_id": "tt5436082",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.709Z"
+  },
+  "tt0372532": {
+    "imdb_id": "tt0372532",
+    "metascore": 32,
+    "imdb": 6.1,
+    "rt": 12,
+    "fetched_at": "2025-12-13T01:48:02.742Z"
+  },
+  "tt2296709": {
+    "imdb_id": "tt2296709",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.781Z"
+  },
+  "tt14715170": {
+    "imdb_id": "tt14715170",
+    "metascore": 40,
+    "imdb": 5.3,
+    "rt": 62,
+    "fetched_at": "2025-12-13T01:48:02.823Z"
+  },
+  "tt15509244": {
+    "imdb_id": "tt15509244",
+    "metascore": 48,
+    "imdb": 6.1,
+    "rt": 35,
+    "fetched_at": "2025-12-13T01:48:02.852Z"
+  },
+  "tt1314228": {
+    "imdb_id": "tt1314228",
+    "metascore": 27,
+    "imdb": 4.9,
+    "rt": 12,
+    "fetched_at": "2025-12-13T01:48:02.904Z"
+  },
+  "tt0117979": {
+    "imdb_id": "tt0117979",
+    "metascore": 64,
+    "imdb": 6.3,
+    "rt": 85,
+    "fetched_at": "2025-12-13T01:48:02.916Z"
+  },
+  "tt0104662": {
+    "imdb_id": "tt0104662",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:02.920Z"
+  },
+  "tt1001508": {
+    "imdb_id": "tt1001508",
+    "metascore": 47,
+    "imdb": 6.4,
+    "rt": 42,
+    "fetched_at": "2025-12-13T01:48:02.941Z"
+  },
+  "tt4699388": {
+    "imdb_id": "tt4699388",
+    "metascore": 48,
+    "imdb": 6.3,
+    "rt": 39,
+    "fetched_at": "2025-12-13T01:48:03.066Z"
+  },
+  "tt0337563": {
+    "imdb_id": "tt0337563",
+    "metascore": 57,
+    "imdb": 6.3,
+    "rt": 65,
+    "fetched_at": "2025-12-13T01:48:03.070Z"
+  },
+  "tt1974420": {
+    "imdb_id": "tt1974420",
+    "metascore": 60,
+    "imdb": 5.7,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:03.117Z"
+  },
+  "tt30788842": {
+    "imdb_id": "tt30788842",
+    "metascore": 34,
+    "imdb": 5.3,
+    "rt": 18,
+    "fetched_at": "2025-12-13T01:48:03.139Z"
+  },
+  "tt0113636": {
+    "imdb_id": "tt0113636",
+    "metascore": null,
+    "imdb": 5,
+    "rt": 17,
+    "fetched_at": "2025-12-13T01:48:03.159Z"
+  },
+  "tt0061523": {
+    "imdb_id": "tt0061523",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 43,
+    "fetched_at": "2025-12-13T01:48:03.207Z"
+  },
+  "tt0160862": {
+    "imdb_id": "tt0160862",
+    "metascore": 51,
+    "imdb": 5.9,
+    "rt": 43,
+    "fetched_at": "2025-12-13T01:48:03.260Z"
+  },
+  "tt1814614": {
+    "imdb_id": "tt1814614",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.273Z"
+  },
+  "tt0124298": {
+    "imdb_id": "tt0124298",
+    "metascore": 50,
+    "imdb": 6.7,
+    "rt": 59,
+    "fetched_at": "2025-12-13T01:48:03.291Z"
+  },
+  "tt0770752": {
+    "imdb_id": "tt0770752",
+    "metascore": 29,
+    "imdb": 5.7,
+    "rt": 11,
+    "fetched_at": "2025-12-13T01:48:03.352Z"
+  },
+  "tt10276482": {
+    "imdb_id": "tt10276482",
+    "metascore": 32,
+    "imdb": 5.9,
+    "rt": 30,
+    "fetched_at": "2025-12-13T01:48:03.369Z"
+  },
+  "tt0090142": {
+    "imdb_id": "tt0090142",
+    "metascore": 25,
+    "imdb": 6.1,
+    "rt": 46,
+    "fetched_at": "2025-12-13T01:48:03.397Z"
+  },
+  "tt0113321": {
+    "imdb_id": "tt0113321",
+    "metascore": 57,
+    "imdb": 6.6,
+    "rt": 63,
+    "fetched_at": "2025-12-13T01:48:03.416Z"
+  },
+  "tt7776838": {
+    "imdb_id": "tt7776838",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.454Z"
+  },
+  "tt0368578": {
+    "imdb_id": "tt0368578",
+    "metascore": 27,
+    "imdb": 4.8,
+    "rt": 12,
+    "fetched_at": "2025-12-13T01:48:03.473Z"
+  },
+  "tt10155932": {
+    "imdb_id": "tt10155932",
+    "metascore": 41,
+    "imdb": 4.4,
+    "rt": 41,
+    "fetched_at": "2025-12-13T01:48:03.496Z"
+  },
+  "tt33549683": {
+    "imdb_id": "tt33549683",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.513Z"
+  },
+  "tt0088011": {
+    "imdb_id": "tt0088011",
+    "metascore": 63,
+    "imdb": 6.9,
+    "rt": 86,
+    "fetched_at": "2025-12-13T01:48:03.551Z"
+  },
+  "tt1473832": {
+    "imdb_id": "tt1473832",
+    "metascore": 59,
+    "imdb": 6.4,
+    "rt": 78,
+    "fetched_at": "2025-12-13T01:48:03.563Z"
+  },
+  "tt0938666": {
+    "imdb_id": "tt0938666",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.624Z"
+  },
+  "tt0937375": {
+    "imdb_id": "tt0937375",
+    "metascore": 63,
+    "imdb": 6.4,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:03.644Z"
+  },
+  "tt2332579": {
+    "imdb_id": "tt2332579",
+    "metascore": 67,
+    "imdb": 5.9,
+    "rt": 84,
+    "fetched_at": "2025-12-13T01:48:03.646Z"
+  },
+  "tt0339034": {
+    "imdb_id": "tt0339034",
+    "metascore": 14,
+    "imdb": 1.9,
+    "rt": 8,
+    "fetched_at": "2025-12-13T01:48:03.704Z"
+  },
+  "tt3239442": {
+    "imdb_id": "tt3239442",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.721Z"
+  },
+  "tt8170902": {
+    "imdb_id": "tt8170902",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.751Z"
+  },
+  "tt0219400": {
+    "imdb_id": "tt0219400",
+    "metascore": 28,
+    "imdb": 5.5,
+    "rt": 11,
+    "fetched_at": "2025-12-13T01:48:03.778Z"
+  },
+  "tt1638328": {
+    "imdb_id": "tt1638328",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.831Z"
+  },
+  "tt0088414": {
+    "imdb_id": "tt0088414",
+    "metascore": 55,
+    "imdb": 6,
+    "rt": 32,
+    "fetched_at": "2025-12-13T01:48:03.843Z"
+  },
+  "tt0098635": {
+    "imdb_id": "tt0098635",
+    "metascore": 76,
+    "imdb": 7.7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T01:48:03.844Z"
+  },
+  "tt0089598": {
+    "imdb_id": "tt0089598",
+    "metascore": null,
+    "imdb": 4.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.896Z"
+  },
+  "tt0386588": {
+    "imdb_id": "tt0386588",
+    "metascore": 58,
+    "imdb": 6.6,
+    "rt": 68,
+    "fetched_at": "2025-12-13T01:48:03.897Z"
+  },
+  "tt0398375": {
+    "imdb_id": "tt0398375",
+    "metascore": 35,
+    "imdb": 5.5,
+    "rt": 21,
+    "fetched_at": "2025-12-13T01:48:03.924Z"
+  },
+  "tt0112346": {
+    "imdb_id": "tt0112346",
+    "metascore": 68,
+    "imdb": 6.8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T01:48:03.963Z"
+  },
+  "tt32360696": {
+    "imdb_id": "tt32360696",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:03.986Z"
+  },
+  "tt15333984": {
+    "imdb_id": "tt15333984",
+    "metascore": 57,
+    "imdb": 5.7,
+    "rt": 71,
+    "fetched_at": "2025-12-13T01:48:04.013Z"
+  },
+  "tt7534068": {
+    "imdb_id": "tt7534068",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 77,
+    "fetched_at": "2025-12-13T01:48:04.055Z"
+  },
+  "tt0092666": {
+    "imdb_id": "tt0092666",
+    "metascore": 49,
+    "imdb": 6,
+    "rt": 24,
+    "fetched_at": "2025-12-13T01:48:04.063Z"
+  },
+  "tt0230030": {
+    "imdb_id": "tt0230030",
+    "metascore": 49,
+    "imdb": 6.1,
+    "rt": 50,
+    "fetched_at": "2025-12-13T01:48:04.066Z"
+  },
+  "tt0053604": {
+    "imdb_id": "tt0053604",
+    "metascore": 94,
+    "imdb": 8.3,
+    "rt": 93,
+    "fetched_at": "2025-12-13T01:48:04.139Z"
+  },
+  "tt1142988": {
+    "imdb_id": "tt1142988",
+    "metascore": 28,
+    "imdb": 6.4,
+    "rt": 14,
+    "fetched_at": "2025-12-13T01:48:04.283Z"
+  },
+  "tt0086873": {
+    "imdb_id": "tt0086873",
+    "metascore": 68,
+    "imdb": 6.7,
+    "rt": 85,
+    "fetched_at": "2025-12-13T01:48:04.417Z"
+  },
+  "tt16275882": {
+    "imdb_id": "tt16275882",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:04.423Z"
+  },
+  "tt2381941": {
+    "imdb_id": "tt2381941",
+    "metascore": 56,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:04.493Z"
+  },
+  "tt0113117": {
+    "imdb_id": "tt0113117",
+    "metascore": 50,
+    "imdb": 6.6,
+    "rt": 48,
+    "fetched_at": "2025-12-13T01:48:04.502Z"
+  },
+  "tt0367027": {
+    "imdb_id": "tt0367027",
+    "metascore": 64,
+    "imdb": 6.4,
+    "rt": 69,
+    "fetched_at": "2025-12-13T01:48:04.521Z"
+  },
+  "tt3172532": {
+    "imdb_id": "tt3172532",
+    "metascore": 87,
+    "imdb": 6.8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T01:48:04.560Z"
+  },
+  "tt3907858": {
+    "imdb_id": "tt3907858",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:04.594Z"
+  },
+  "tt0113442": {
+    "imdb_id": "tt0113442",
+    "metascore": 45,
+    "imdb": 6,
+    "rt": 8,
+    "fetched_at": "2025-12-13T01:48:04.637Z"
+  },
+  "tt0114885": {
+    "imdb_id": "tt0114885",
+    "metascore": null,
+    "imdb": 6,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:04.668Z"
+  },
+  "tt1638002": {
+    "imdb_id": "tt1638002",
+    "metascore": 44,
+    "imdb": 7.1,
+    "rt": 32,
+    "fetched_at": "2025-12-13T01:48:04.708Z"
+  },
+  "tt0236493": {
+    "imdb_id": "tt0236493",
+    "metascore": 43,
+    "imdb": 6.1,
+    "rt": 54,
+    "fetched_at": "2025-12-13T01:48:04.746Z"
+  },
+  "tt0361620": {
+    "imdb_id": "tt0361620",
+    "metascore": 31,
+    "imdb": 5.2,
+    "rt": 8,
+    "fetched_at": "2025-12-13T01:48:04.761Z"
+  },
+  "tt0067803": {
+    "imdb_id": "tt0067803",
+    "metascore": 59,
+    "imdb": 7.2,
+    "rt": 78,
+    "fetched_at": "2025-12-13T01:48:04.781Z"
+  },
+  "tt9866072": {
+    "imdb_id": "tt9866072",
+    "metascore": 44,
+    "imdb": 6.2,
+    "rt": 45,
+    "fetched_at": "2025-12-13T01:48:04.873Z"
+  },
+  "tt0887887": {
+    "imdb_id": "tt0887887",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:04.936Z"
+  },
+  "tt0283111": {
+    "imdb_id": "tt0283111",
+    "metascore": 26,
+    "imdb": 6.4,
+    "rt": 18,
+    "fetched_at": "2025-12-13T01:48:04.968Z"
+  },
+  "tt0110167": {
+    "imdb_id": "tt0110167",
+    "metascore": 64,
+    "imdb": 6.4,
+    "rt": 75,
+    "fetched_at": "2025-12-13T01:48:04.989Z"
+  },
+  "tt0099141": {
+    "imdb_id": "tt0099141",
+    "metascore": 36,
+    "imdb": 6,
+    "rt": 26,
+    "fetched_at": "2025-12-13T01:48:04.997Z"
+  },
+  "tt0466839": {
+    "imdb_id": "tt0466839",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": 69,
+    "fetched_at": "2025-12-13T01:48:05.058Z"
+  },
+  "tt0110516": {
+    "imdb_id": "tt0110516",
+    "metascore": null,
+    "imdb": 5.7,
+    "rt": 12,
+    "fetched_at": "2025-12-13T01:48:05.063Z"
+  },
+  "tt0960731": {
+    "imdb_id": "tt0960731",
+    "metascore": 33,
+    "imdb": 6,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:05.123Z"
+  },
+  "tt4081630": {
+    "imdb_id": "tt4081630",
+    "metascore": 62,
+    "imdb": 6.7,
+    "rt": 75,
+    "fetched_at": "2025-12-13T01:48:05.135Z"
+  },
+  "tt0337592": {
+    "imdb_id": "tt0337592",
+    "metascore": 37,
+    "imdb": 5.2,
+    "rt": 13,
+    "fetched_at": "2025-12-13T01:48:05.210Z"
+  },
+  "tt1807892": {
+    "imdb_id": "tt1807892",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:05.261Z"
+  },
+  "tt9214832": {
+    "imdb_id": "tt9214832",
+    "metascore": 71,
+    "imdb": 6.7,
+    "rt": 86,
+    "fetched_at": "2025-12-13T01:48:05.271Z"
+  },
+  "tt0172684": {
+    "imdb_id": "tt0172684",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 80,
+    "fetched_at": "2025-12-13T01:48:05.278Z"
+  },
+  "tt6053938": {
+    "imdb_id": "tt6053938",
+    "metascore": 45,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:05.295Z"
+  },
+  "tt0205000": {
+    "imdb_id": "tt0205000",
+    "metascore": 30,
+    "imdb": 5.7,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:48:05.330Z"
+  },
+  "tt0770703": {
+    "imdb_id": "tt0770703",
+    "metascore": 35,
+    "imdb": 6,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:48:05.372Z"
+  },
+  "tt0059415": {
+    "imdb_id": "tt0059415",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 94,
+    "fetched_at": "2025-12-13T01:48:05.379Z"
+  },
+  "tt2355495": {
+    "imdb_id": "tt2355495",
+    "metascore": 22,
+    "imdb": 6.5,
+    "rt": 19,
+    "fetched_at": "2025-12-13T01:48:05.388Z"
+  },
+  "tt0343135": {
+    "imdb_id": "tt0343135",
+    "metascore": 44,
+    "imdb": 6,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:05.424Z"
+  },
+  "tt4701660": {
+    "imdb_id": "tt4701660",
+    "metascore": 69,
+    "imdb": 6.2,
+    "rt": 95,
+    "fetched_at": "2025-12-13T01:48:05.460Z"
+  },
+  "tt2784678": {
+    "imdb_id": "tt2784678",
+    "metascore": 81,
+    "imdb": 6.4,
+    "rt": 85,
+    "fetched_at": "2025-12-13T01:48:05.482Z"
+  },
+  "tt1896747": {
+    "imdb_id": "tt1896747",
+    "metascore": 53,
+    "imdb": 6.6,
+    "rt": 66,
+    "fetched_at": "2025-12-13T01:48:05.517Z"
+  },
+  "tt1216492": {
+    "imdb_id": "tt1216492",
+    "metascore": 33,
+    "imdb": 6.4,
+    "rt": 24,
+    "fetched_at": "2025-12-13T01:48:05.533Z"
+  },
+  "tt0108333": {
+    "imdb_id": "tt0108333",
+    "metascore": 43,
+    "imdb": 6.4,
+    "rt": 31,
+    "fetched_at": "2025-12-13T01:48:05.579Z"
+  },
+  "tt0443295": {
+    "imdb_id": "tt0443295",
+    "metascore": 38,
+    "imdb": 5.5,
+    "rt": 6,
+    "fetched_at": "2025-12-13T01:48:05.605Z"
+  },
+  "tt1407061": {
+    "imdb_id": "tt1407061",
+    "metascore": 51,
+    "imdb": 5.9,
+    "rt": 47,
+    "fetched_at": "2025-12-13T01:48:05.630Z"
+  },
+  "tt0368933": {
+    "imdb_id": "tt0368933",
+    "metascore": 43,
+    "imdb": 5.9,
+    "rt": 25,
+    "fetched_at": "2025-12-13T01:48:05.650Z"
+  },
+  "tt0970866": {
+    "imdb_id": "tt0970866",
+    "metascore": 27,
+    "imdb": 5.5,
+    "rt": 9,
+    "fetched_at": "2025-12-13T01:48:05.653Z"
+  },
+  "tt0762107": {
+    "imdb_id": "tt0762107",
+    "metascore": 37,
+    "imdb": 5.9,
+    "rt": 15,
+    "fetched_at": "2025-12-13T01:48:05.690Z"
+  },
+  "tt1621045": {
+    "imdb_id": "tt1621045",
+    "metascore": 51,
+    "imdb": 6.5,
+    "rt": 55,
+    "fetched_at": "2025-12-13T01:48:05.705Z"
+  },
+  "tt10370710": {
+    "imdb_id": "tt10370710",
+    "metascore": 91,
+    "imdb": 7.7,
+    "rt": 96,
+    "fetched_at": "2025-12-13T01:48:05.734Z"
+  },
+  "tt0400497": {
+    "imdb_id": "tt0400497",
+    "metascore": 47,
+    "imdb": 4.9,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:05.746Z"
+  },
+  "tt0104798": {
+    "imdb_id": "tt0104798",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:05.774Z"
+  },
+  "tt0094678": {
+    "imdb_id": "tt0094678",
+    "metascore": null,
+    "imdb": 4.7,
+    "rt": 13,
+    "fetched_at": "2025-12-13T01:48:05.843Z"
+  },
+  "tt31022050": {
+    "imdb_id": "tt31022050",
+    "metascore": 41,
+    "imdb": 5.7,
+    "rt": 37,
+    "fetched_at": "2025-12-13T01:48:05.854Z"
+  },
+  "tt0110612": {
+    "imdb_id": "tt0110612",
+    "metascore": 42,
+    "imdb": 5.5,
+    "rt": 21,
+    "fetched_at": "2025-12-13T01:48:05.919Z"
+  },
+  "tt0272338": {
+    "imdb_id": "tt0272338",
+    "metascore": 78,
+    "imdb": 7.3,
+    "rt": 79,
+    "fetched_at": "2025-12-13T01:48:05.937Z"
+  },
+  "tt1815753": {
+    "imdb_id": "tt1815753",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:05.957Z"
+  },
+  "tt0076137": {
+    "imdb_id": "tt0076137",
+    "metascore": 38,
+    "imdb": 5.7,
+    "rt": 60,
+    "fetched_at": "2025-12-13T01:48:05.991Z"
+  },
+  "tt20215968": {
+    "imdb_id": "tt20215968",
+    "metascore": 82,
+    "imdb": 6.8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T01:48:06.013Z"
+  },
+  "tt2316548": {
+    "imdb_id": "tt2316548",
+    "metascore": null,
+    "imdb": 5.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.061Z"
+  },
+  "tt0120828": {
+    "imdb_id": "tt0120828",
+    "metascore": 51,
+    "imdb": 5.9,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:06.067Z"
+  },
+  "tt0800039": {
+    "imdb_id": "tt0800039",
+    "metascore": 67,
+    "imdb": 7.1,
+    "rt": 84,
+    "fetched_at": "2025-12-13T01:48:06.097Z"
+  },
+  "tt0122459": {
+    "imdb_id": "tt0122459",
+    "metascore": 54,
+    "imdb": 7,
+    "rt": 62,
+    "fetched_at": "2025-12-13T01:48:06.138Z"
+  },
+  "tt8096832": {
+    "imdb_id": "tt8096832",
+    "metascore": 48,
+    "imdb": 6.2,
+    "rt": 67,
+    "fetched_at": "2025-12-13T01:48:06.175Z"
+  },
+  "tt0387514": {
+    "imdb_id": "tt0387514",
+    "metascore": 58,
+    "imdb": 6.2,
+    "rt": 50,
+    "fetched_at": "2025-12-13T01:48:06.206Z"
+  },
+  "tt14599938": {
+    "imdb_id": "tt14599938",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.238Z"
+  },
+  "tt0348333": {
+    "imdb_id": "tt0348333",
+    "metascore": 30,
+    "imdb": 6.7,
+    "rt": 29,
+    "fetched_at": "2025-12-13T01:48:06.239Z"
+  },
+  "tt0087578": {
+    "imdb_id": "tt0087578",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.260Z"
+  },
+  "tt0815236": {
+    "imdb_id": "tt0815236",
+    "metascore": 46,
+    "imdb": 6.4,
+    "rt": 57,
+    "fetched_at": "2025-12-13T01:48:06.286Z"
+  },
+  "tt8522006": {
+    "imdb_id": "tt8522006",
+    "metascore": 69,
+    "imdb": 6.6,
+    "rt": 82,
+    "fetched_at": "2025-12-13T01:48:06.310Z"
+  },
+  "tt1540128": {
+    "imdb_id": "tt1540128",
+    "metascore": 27,
+    "imdb": 5.7,
+    "rt": 6,
+    "fetched_at": "2025-12-13T01:48:06.331Z"
+  },
+  "tt1261945": {
+    "imdb_id": "tt1261945",
+    "metascore": 27,
+    "imdb": 4.5,
+    "rt": 16,
+    "fetched_at": "2025-12-13T01:48:06.356Z"
+  },
+  "tt1068680": {
+    "imdb_id": "tt1068680",
+    "metascore": 46,
+    "imdb": 6.8,
+    "rt": 44,
+    "fetched_at": "2025-12-13T01:48:06.380Z"
+  },
+  "tt0119738": {
+    "imdb_id": "tt0119738",
+    "metascore": 51,
+    "imdb": 6.4,
+    "rt": 74,
+    "fetched_at": "2025-12-13T01:48:06.396Z"
+  },
+  "tt3120280": {
+    "imdb_id": "tt3120280",
+    "metascore": 60,
+    "imdb": 5.8,
+    "rt": 58,
+    "fetched_at": "2025-12-13T01:48:06.426Z"
+  },
+  "tt6582384": {
+    "imdb_id": "tt6582384",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.459Z"
+  },
+  "tt0475293": {
+    "imdb_id": "tt0475293",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": 67,
+    "fetched_at": "2025-12-13T01:48:06.462Z"
+  },
+  "tt0080728": {
+    "imdb_id": "tt0080728",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 82,
+    "fetched_at": "2025-12-13T01:48:06.529Z"
+  },
+  "tt0988595": {
+    "imdb_id": "tt0988595",
+    "metascore": 47,
+    "imdb": 6.1,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:06.578Z"
+  },
+  "tt0341555": {
+    "imdb_id": "tt0341555",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.597Z"
+  },
+  "tt11199410": {
+    "imdb_id": "tt11199410",
+    "metascore": null,
+    "imdb": 5.4,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:06.602Z"
+  },
+  "tt0452594": {
+    "imdb_id": "tt0452594",
+    "metascore": 46,
+    "imdb": 5.8,
+    "rt": 34,
+    "fetched_at": "2025-12-13T01:48:06.613Z"
+  },
+  "tt1859650": {
+    "imdb_id": "tt1859650",
+    "metascore": 54,
+    "imdb": 6.3,
+    "rt": 47,
+    "fetched_at": "2025-12-13T01:48:06.660Z"
+  },
+  "tt0058092": {
+    "imdb_id": "tt0058092",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 79,
+    "fetched_at": "2025-12-13T01:48:06.692Z"
+  },
+  "tt0093737": {
+    "imdb_id": "tt0093737",
+    "metascore": 48,
+    "imdb": 5.4,
+    "rt": 58,
+    "fetched_at": "2025-12-13T01:48:06.702Z"
+  },
+  "tt0099892": {
+    "imdb_id": "tt0099892",
+    "metascore": 45,
+    "imdb": 5.9,
+    "rt": 65,
+    "fetched_at": "2025-12-13T01:48:06.713Z"
+  },
+  "tt0962726": {
+    "imdb_id": "tt0962726",
+    "metascore": 57,
+    "imdb": 5,
+    "rt": 64,
+    "fetched_at": "2025-12-13T01:48:06.768Z"
+  },
+  "tt0139699": {
+    "imdb_id": "tt0139699",
+    "metascore": 50,
+    "imdb": 6.5,
+    "rt": 46,
+    "fetched_at": "2025-12-13T01:48:06.774Z"
+  },
+  "tt15213704": {
+    "imdb_id": "tt15213704",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.806Z"
+  },
+  "tt1748122": {
+    "imdb_id": "tt1748122",
+    "metascore": 84,
+    "imdb": 7.8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T01:48:06.835Z"
+  },
+  "tt15432804": {
+    "imdb_id": "tt15432804",
+    "metascore": null,
+    "imdb": 3.9,
+    "rt": 0,
+    "fetched_at": "2025-12-13T01:48:06.849Z"
+  },
+  "tt0429591": {
+    "imdb_id": "tt0429591",
+    "metascore": 51,
+    "imdb": 5.4,
+    "rt": 53,
+    "fetched_at": "2025-12-13T01:48:06.851Z"
+  },
+  "tt0805564": {
+    "imdb_id": "tt0805564",
+    "metascore": 70,
+    "imdb": 7.3,
+    "rt": 81,
+    "fetched_at": "2025-12-13T01:48:06.905Z"
+  },
+  "tt0889573": {
+    "imdb_id": "tt0889573",
+    "metascore": 52,
+    "imdb": 6.1,
+    "rt": 53,
+    "fetched_at": "2025-12-13T01:48:06.929Z"
+  },
+  "tt0144528": {
+    "imdb_id": "tt0144528",
+    "metascore": 38,
+    "imdb": 4.5,
+    "rt": 27,
+    "fetched_at": "2025-12-13T01:48:06.979Z"
+  },
+  "tt9252508": {
+    "imdb_id": "tt9252508",
+    "metascore": null,
+    "imdb": 5.2,
+    "rt": 42,
+    "fetched_at": "2025-12-13T01:48:06.982Z"
+  },
+  "tt0399778": {
+    "imdb_id": "tt0399778",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:06.991Z"
+  },
+  "tt1217631": {
+    "imdb_id": "tt1217631",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.067Z"
+  },
+  "tt2785032": {
+    "imdb_id": "tt2785032",
+    "metascore": 46,
+    "imdb": 7,
+    "rt": 61,
+    "fetched_at": "2025-12-13T01:48:07.067Z"
+  },
+  "tt28182736": {
+    "imdb_id": "tt28182736",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.071Z"
+  },
+  "tt0093493": {
+    "imdb_id": "tt0093493",
+    "metascore": 21,
+    "imdb": 6,
+    "rt": 20,
+    "fetched_at": "2025-12-13T01:48:07.096Z"
+  },
+  "tt1016075": {
+    "imdb_id": "tt1016075",
+    "metascore": 39,
+    "imdb": 5,
+    "rt": 23,
+    "fetched_at": "2025-12-13T01:48:07.127Z"
+  },
+  "tt0079579": {
+    "imdb_id": "tt0079579",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:07.132Z"
+  },
+  "tt0093412": {
+    "imdb_id": "tt0093412",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 100,
+    "fetched_at": "2025-12-13T01:48:07.187Z"
+  },
+  "tt0790623": {
+    "imdb_id": "tt0790623",
+    "metascore": 30,
+    "imdb": 6.2,
+    "rt": 20,
+    "fetched_at": "2025-12-13T01:48:07.209Z"
+  },
+  "tt0098520": {
+    "imdb_id": "tt0098520",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 60,
+    "fetched_at": "2025-12-13T01:48:07.274Z"
+  },
+  "tt17321230": {
+    "imdb_id": "tt17321230",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 89,
+    "fetched_at": "2025-12-13T01:48:07.281Z"
+  },
+  "tt0865559": {
+    "imdb_id": "tt0865559",
+    "metascore": 34,
+    "imdb": 5.9,
+    "rt": 10,
+    "fetched_at": "2025-12-13T01:48:07.294Z"
+  },
+  "tt1920849": {
+    "imdb_id": "tt1920849",
+    "metascore": 53,
+    "imdb": 5.3,
+    "rt": 58,
+    "fetched_at": "2025-12-13T01:48:07.333Z"
+  },
+  "tt3152624": {
+    "imdb_id": "tt3152624",
+    "metascore": 75,
+    "imdb": 6.2,
+    "rt": 84,
+    "fetched_at": "2025-12-13T01:48:07.355Z"
+  },
+  "tt0184526": {
+    "imdb_id": "tt0184526",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.393Z"
+  },
+  "tt0291502": {
+    "imdb_id": "tt0291502",
+    "metascore": 18,
+    "imdb": 3.6,
+    "rt": 6,
+    "fetched_at": "2025-12-13T01:48:07.429Z"
+  },
+  "tt16280138": {
+    "imdb_id": "tt16280138",
+    "metascore": 52,
+    "imdb": 5.2,
+    "rt": 48,
+    "fetched_at": "2025-12-13T01:48:07.452Z"
+  },
+  "tt0408839": {
+    "imdb_id": "tt0408839",
+    "metascore": 46,
+    "imdb": 5.9,
+    "rt": 29,
+    "fetched_at": "2025-12-13T01:48:07.479Z"
+  },
+  "tt30253036": {
+    "imdb_id": "tt30253036",
+    "metascore": 38,
+    "imdb": 4.9,
+    "rt": 28,
+    "fetched_at": "2025-12-13T01:48:07.494Z"
+  },
+  "tt0436331": {
+    "imdb_id": "tt0436331",
+    "metascore": 68,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.544Z"
+  },
+  "tt3245074": {
+    "imdb_id": "tt3245074",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.572Z"
+  },
+  "tt1986843": {
+    "imdb_id": "tt1986843",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": 33,
+    "fetched_at": "2025-12-13T01:48:07.614Z"
+  },
+  "tt1067774": {
+    "imdb_id": "tt1067774",
+    "metascore": 43,
+    "imdb": 5.8,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:07.642Z"
+  },
+  "tt0091939": {
+    "imdb_id": "tt0091939",
+    "metascore": 79,
+    "imdb": 6.8,
+    "rt": 94,
+    "fetched_at": "2025-12-13T01:48:07.661Z"
+  },
+  "tt0094889": {
+    "imdb_id": "tt0094889",
+    "metascore": 12,
+    "imdb": 5.9,
+    "rt": 9,
+    "fetched_at": "2025-12-13T01:48:07.705Z"
+  },
+  "tt1579247": {
+    "imdb_id": "tt1579247",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.724Z"
+  },
+  "tt0105750": {
+    "imdb_id": "tt0105750",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.761Z"
+  },
+  "tt13236566": {
+    "imdb_id": "tt13236566",
+    "metascore": 47,
+    "imdb": 5.9,
+    "rt": 50,
+    "fetched_at": "2025-12-13T01:48:07.778Z"
+  },
+  "tt2203939": {
+    "imdb_id": "tt2203939",
+    "metascore": 39,
+    "imdb": 6,
+    "rt": 26,
+    "fetched_at": "2025-12-13T01:48:07.794Z"
+  },
+  "tt0252028": {
+    "imdb_id": "tt0252028",
+    "metascore": 19,
+    "imdb": 5.5,
+    "rt": 8,
+    "fetched_at": "2025-12-13T01:48:07.830Z"
+  },
+  "tt0119190": {
+    "imdb_id": "tt0119190",
+    "metascore": 53,
+    "imdb": 5.6,
+    "rt": 56,
+    "fetched_at": "2025-12-13T01:48:07.849Z"
+  },
+  "tt0333766": {
+    "imdb_id": "tt0333766",
+    "metascore": 67,
+    "imdb": 7.4,
+    "rt": 86,
+    "fetched_at": "2025-12-13T01:48:07.864Z"
+  },
+  "tt1583420": {
+    "imdb_id": "tt1583420",
+    "metascore": 41,
+    "imdb": 6.1,
+    "rt": 35,
+    "fetched_at": "2025-12-13T01:48:07.922Z"
+  },
+  "tt1276434": {
+    "imdb_id": "tt1276434",
+    "metascore": null,
+    "imdb": 5.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:07.932Z"
+  },
+  "tt1128075": {
+    "imdb_id": "tt1128075",
+    "metascore": 78,
+    "imdb": 8,
+    "rt": 90,
+    "fetched_at": "2025-12-13T01:48:07.971Z"
+  },
+  "tt0084805": {
+    "imdb_id": "tt0084805",
+    "metascore": 88,
+    "imdb": 7.4,
+    "rt": 91,
+    "fetched_at": "2025-12-13T01:48:07.986Z"
+  },
+  "tt0114996": {
+    "imdb_id": "tt0114996",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.006Z"
+  },
+  "tt2948472": {
+    "imdb_id": "tt2948472",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.037Z"
+  },
+  "tt0060438": {
+    "imdb_id": "tt0060438",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 83,
+    "fetched_at": "2025-12-13T01:48:08.070Z"
+  },
+  "tt0090305": {
+    "imdb_id": "tt0090305",
+    "metascore": 46,
+    "imdb": 6.6,
+    "rt": 60,
+    "fetched_at": "2025-12-13T01:48:08.083Z"
+  },
+  "tt0481141": {
+    "imdb_id": "tt0481141",
+    "metascore": 50,
+    "imdb": 6.3,
+    "rt": 42,
+    "fetched_at": "2025-12-13T01:48:08.148Z"
+  },
+  "tt0055277": {
+    "imdb_id": "tt0055277",
+    "metascore": 73,
+    "imdb": 7.2,
+    "rt": 89,
+    "fetched_at": "2025-12-13T01:48:08.178Z"
+  },
+  "tt3471098": {
+    "imdb_id": "tt3471098",
+    "metascore": 76,
+    "imdb": 6.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T01:48:08.183Z"
+  },
+  "tt0333780": {
+    "imdb_id": "tt0333780",
+    "metascore": 47,
+    "imdb": 4.8,
+    "rt": 35,
+    "fetched_at": "2025-12-13T01:48:08.228Z"
+  },
+  "tt0367859": {
+    "imdb_id": "tt0367859",
+    "metascore": 49,
+    "imdb": 7.6,
+    "rt": 68,
+    "fetched_at": "2025-12-13T01:48:08.244Z"
+  },
+  "tt0113986": {
+    "imdb_id": "tt0113986",
+    "metascore": 47,
+    "imdb": 5.5,
+    "rt": 26,
+    "fetched_at": "2025-12-13T01:48:08.264Z"
+  },
+  "tt4667094": {
+    "imdb_id": "tt4667094",
+    "metascore": 28,
+    "imdb": 3.5,
+    "rt": 4,
+    "fetched_at": "2025-12-13T01:48:08.297Z"
+  },
+  "tt1007028": {
+    "imdb_id": "tt1007028",
+    "metascore": 56,
+    "imdb": 6.5,
+    "rt": 65,
+    "fetched_at": "2025-12-13T01:48:08.329Z"
+  },
+  "tt4590256": {
+    "imdb_id": "tt4590256",
+    "metascore": 36,
+    "imdb": 4.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.372Z"
+  },
+  "tt0241303": {
+    "imdb_id": "tt0241303",
+    "metascore": 64,
+    "imdb": 7.2,
+    "rt": 63,
+    "fetched_at": "2025-12-13T01:48:08.379Z"
+  },
+  "tt0181151": {
+    "imdb_id": "tt0181151",
+    "metascore": 41,
+    "imdb": 5.6,
+    "rt": 41,
+    "fetched_at": "2025-12-13T01:48:08.397Z"
+  },
+  "tt0452625": {
+    "imdb_id": "tt0452625",
+    "metascore": 19,
+    "imdb": 5.6,
+    "rt": 5,
+    "fetched_at": "2025-12-13T01:48:08.399Z"
+  },
+  "tt0112513": {
+    "imdb_id": "tt0112513",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.453Z"
+  },
+  "tt21051906": {
+    "imdb_id": "tt21051906",
+    "metascore": 43,
+    "imdb": 5.4,
+    "rt": 40,
+    "fetched_at": "2025-12-13T01:48:08.464Z"
+  },
+  "tt1563742": {
+    "imdb_id": "tt1563742",
+    "metascore": 42,
+    "imdb": 6,
+    "rt": 24,
+    "fetched_at": "2025-12-13T01:48:08.479Z"
+  },
+  "tt5783956": {
+    "imdb_id": "tt5783956",
+    "metascore": 36,
+    "imdb": 6.4,
+    "rt": 45,
+    "fetched_at": "2025-12-13T01:48:08.563Z"
+  },
+  "tt0375063": {
+    "imdb_id": "tt0375063",
+    "metascore": 94,
+    "imdb": 7.5,
+    "rt": 97,
+    "fetched_at": "2025-12-13T01:48:08.571Z"
+  },
+  "tt0100070": {
+    "imdb_id": "tt0100070",
+    "metascore": null,
+    "imdb": 4.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.614Z"
+  },
+  "tt0427327": {
+    "imdb_id": "tt0427327",
+    "metascore": 81,
+    "imdb": 6.7,
+    "rt": 92,
+    "fetched_at": "2025-12-13T01:48:08.651Z"
+  },
+  "tt0212338": {
+    "imdb_id": "tt0212338",
+    "metascore": 73,
+    "imdb": 7,
+    "rt": 85,
+    "fetched_at": "2025-12-13T01:48:08.727Z"
+  },
+  "tt0035423": {
+    "imdb_id": "tt0035423",
+    "metascore": 44,
+    "imdb": 6.4,
+    "rt": 52,
+    "fetched_at": "2025-12-13T01:48:08.755Z"
+  },
+  "tt0473308": {
+    "imdb_id": "tt0473308",
+    "metascore": 75,
+    "imdb": 7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T01:48:08.756Z"
+  },
+  "tt0098308": {
+    "imdb_id": "tt0098308",
+    "metascore": 20,
+    "imdb": 5.4,
+    "rt": 11,
+    "fetched_at": "2025-12-13T01:48:08.826Z"
+  },
+  "tt0089670": {
+    "imdb_id": "tt0089670",
+    "metascore": 47,
+    "imdb": 6.2,
+    "rt": 37,
+    "fetched_at": "2025-12-13T01:48:08.834Z"
+  },
+  "tt0093693": {
+    "imdb_id": "tt0093693",
+    "metascore": 53,
+    "imdb": 6.9,
+    "rt": 46,
+    "fetched_at": "2025-12-13T01:48:08.876Z"
+  },
+  "tt26546123": {
+    "imdb_id": "tt26546123",
+    "metascore": null,
+    "imdb": 4.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:08.910Z"
+  },
+  "tt0114319": {
+    "imdb_id": "tt0114319",
+    "metascore": 56,
+    "imdb": 6.3,
+    "rt": 60,
+    "fetched_at": "2025-12-13T01:48:08.926Z"
+  },
+  "tt0096463": {
+    "imdb_id": "tt0096463",
+    "metascore": 73,
+    "imdb": 6.8,
+    "rt": 83,
+    "fetched_at": "2025-12-13T01:48:08.948Z"
+  },
+  "tt11271038": {
+    "imdb_id": "tt11271038",
+    "metascore": 90,
+    "imdb": 7.1,
+    "rt": 90,
+    "fetched_at": "2025-12-13T01:48:08.967Z"
+  },
+  "tt0265029": {
+    "imdb_id": "tt0265029",
+    "metascore": 44,
+    "imdb": 5.7,
+    "rt": 33,
+    "fetched_at": "2025-12-13T01:48:09.024Z"
+  },
+  "tt0305711": {
+    "imdb_id": "tt0305711",
+    "metascore": 28,
+    "imdb": 5.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:09.039Z"
+  },
+  "tt7205316": {
+    "imdb_id": "tt7205316",
+    "metascore": null,
+    "imdb": 4.8,
+    "rt": 14,
+    "fetched_at": "2025-12-13T01:48:09.086Z"
+  },
+  "tt0256524": {
+    "imdb_id": "tt0256524",
+    "metascore": 52,
+    "imdb": 6.7,
+    "rt": 44,
+    "fetched_at": "2025-12-13T01:48:09.088Z"
+  },
+  "tt0082200": {
+    "imdb_id": "tt0082200",
+    "metascore": 64,
+    "imdb": 6.2,
+    "rt": 73,
+    "fetched_at": "2025-12-13T01:48:09.158Z"
+  },
+  "tt0109831": {
+    "imdb_id": "tt0109831",
+    "metascore": 81,
+    "imdb": 7.1,
+    "rt": 92,
+    "fetched_at": "2025-12-13T01:48:09.206Z"
+  },
+  "tt2581244": {
+    "imdb_id": "tt2581244",
+    "metascore": 50,
+    "imdb": 5.7,
+    "rt": 46,
+    "fetched_at": "2025-12-13T01:48:09.232Z"
+  },
+  "tt0097322": {
+    "imdb_id": "tt0097322",
+    "metascore": 85,
+    "imdb": 6.9,
+    "rt": 97,
+    "fetched_at": "2025-12-13T01:48:09.235Z"
+  },
+  "tt0108289": {
+    "imdb_id": "tt0108289",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T01:48:09.249Z"
+  },
+  "tt0092699": {
+    "imdb_id": "tt0092699",
+    "metascore": 84,
+    "imdb": 7.3,
+    "rt": 98,
+    "fetched_at": "2025-12-13T01:48:09.304Z"
+  },
+  "tt0093015": {
+    "imdb_id": "tt0093015",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 67,
+    "fetched_at": "2025-12-13T01:48:09.324Z"
+  },
+  "tt8079248": {
+    "imdb_id": "tt8079248",
+    "metascore": 55,
+    "imdb": 6.8,
+    "rt": 63,
+    "fetched_at": "2025-12-13T01:48:09.341Z"
+  },
+  "tt0098384": {
+    "imdb_id": "tt0098384",
+    "metascore": 56,
+    "imdb": 7.3,
+    "rt": 73,
+    "fetched_at": "2025-12-13T01:48:09.374Z"
+  },
+  "tt0441909": {
+    "imdb_id": "tt0441909",
+    "metascore": 84,
+    "imdb": 7.6,
+    "rt": 91,
+    "fetched_at": "2025-12-13T01:48:09.398Z"
+  },
+  "tt0093565": {
+    "imdb_id": "tt0093565",
+    "metascore": 83,
+    "imdb": 7.2,
+    "rt": 89,
+    "fetched_at": "2025-12-13T01:48:09.426Z"
+  },
+  "tt0113198": {
+    "imdb_id": "tt0113198",
+    "metascore": 53,
+    "imdb": 7,
+    "rt": 64,
+    "fetched_at": "2025-12-13T01:48:09.452Z"
+  },
+  "tt0082474": {
+    "imdb_id": "tt0082474",
+    "metascore": 70,
+    "imdb": 7.1,
+    "rt": 78,
+    "fetched_at": "2025-12-13T01:48:09.471Z"
+  },
+  "tt11324534": {
+    "imdb_id": "tt11324534",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T01:48:09.524Z"
+  },
+  "tt1483324": {
+    "imdb_id": "tt1483324",
+    "metascore": 60,
+    "imdb": 6.5,
+    "rt": 61,
+    "fetched_at": "2025-12-13T01:48:09.628Z"
+  },
+  "tt1555149": {
+    "imdb_id": "tt1555149",
+    "metascore": 71,
+    "imdb": 8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T04:15:39.354Z"
+  },
+  "tt1179025": {
+    "imdb_id": "tt1179025",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": 88,
+    "fetched_at": "2025-12-13T04:15:39.390Z"
+  },
+  "tt0297814": {
+    "imdb_id": "tt0297814",
+    "metascore": null,
+    "imdb": 8,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:39.513Z"
+  },
+  "tt0305357": {
+    "imdb_id": "tt0305357",
+    "metascore": 48,
+    "imdb": 4.9,
+    "rt": 41,
+    "fetched_at": "2025-12-13T04:15:40.178Z"
+  },
+  "tt1319743": {
+    "imdb_id": "tt1319743",
+    "metascore": null,
+    "imdb": 5.1,
+    "rt": 44,
+    "fetched_at": "2025-12-13T04:15:40.512Z"
+  },
+  "tt0389074": {
+    "imdb_id": "tt0389074",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:40.587Z"
+  },
+  "tt0202677": {
+    "imdb_id": "tt0202677",
+    "metascore": 49,
+    "imdb": 6.6,
+    "rt": 46,
+    "fetched_at": "2025-12-13T04:15:41.008Z"
+  },
+  "tt0329042": {
+    "imdb_id": "tt0329042",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:41.161Z"
+  },
+  "tt0988045": {
+    "imdb_id": "tt0988045",
+    "metascore": 57,
+    "imdb": 7.5,
+    "rt": 70,
+    "fetched_at": "2025-12-13T04:15:41.283Z"
+  },
+  "tt0305396": {
+    "imdb_id": "tt0305396",
+    "metascore": 50,
+    "imdb": 5.4,
+    "rt": 53,
+    "fetched_at": "2025-12-13T04:15:41.351Z"
+  },
+  "tt0498380": {
+    "imdb_id": "tt0498380",
+    "metascore": 89,
+    "imdb": 7.8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T04:15:41.381Z"
+  },
+  "tt0963966": {
+    "imdb_id": "tt0963966",
+    "metascore": 46,
+    "imdb": 6.1,
+    "rt": 40,
+    "fetched_at": "2025-12-13T04:15:41.567Z"
+  },
+  "tt0913951": {
+    "imdb_id": "tt0913951",
+    "metascore": null,
+    "imdb": 2.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:41.658Z"
+  },
+  "tt0177971": {
+    "imdb_id": "tt0177971",
+    "metascore": 59,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:42.024Z"
+  },
+  "tt0330793": {
+    "imdb_id": "tt0330793",
+    "metascore": 33,
+    "imdb": 6.4,
+    "rt": 30,
+    "fetched_at": "2025-12-13T04:15:42.124Z"
+  },
+  "tt0800328": {
+    "imdb_id": "tt0800328",
+    "metascore": null,
+    "imdb": 4.4,
+    "rt": 20,
+    "fetched_at": "2025-12-13T04:15:42.278Z"
+  },
+  "tt1153546": {
+    "imdb_id": "tt1153546",
+    "metascore": null,
+    "imdb": 3,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:42.358Z"
+  },
+  "tt0165982": {
+    "imdb_id": "tt0165982",
+    "metascore": 48,
+    "imdb": 6.7,
+    "rt": 44,
+    "fetched_at": "2025-12-13T04:15:42.480Z"
+  },
+  "tt0955308": {
+    "imdb_id": "tt0955308",
+    "metascore": 53,
+    "imdb": 6.6,
+    "rt": 43,
+    "fetched_at": "2025-12-13T04:15:42.499Z"
+  },
+  "tt1528718": {
+    "imdb_id": "tt1528718",
+    "metascore": null,
+    "imdb": 4.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:42.545Z"
+  },
+  "tt0430105": {
+    "imdb_id": "tt0430105",
+    "metascore": 49,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:42.575Z"
+  },
+  "tt1273678": {
+    "imdb_id": "tt1273678",
+    "metascore": 27,
+    "imdb": 5.5,
+    "rt": 12,
+    "fetched_at": "2025-12-13T04:15:42.652Z"
+  },
+  "tt0139654": {
+    "imdb_id": "tt0139654",
+    "metascore": 71,
+    "imdb": 7.8,
+    "rt": 74,
+    "fetched_at": "2025-12-13T04:15:42.689Z"
+  },
+  "tt0167190": {
+    "imdb_id": "tt0167190",
+    "metascore": 72,
+    "imdb": 6.9,
+    "rt": 81,
+    "fetched_at": "2025-12-13T04:15:42.712Z"
+  },
+  "tt1456941": {
+    "imdb_id": "tt1456941",
+    "metascore": 54,
+    "imdb": 6.1,
+    "rt": 62,
+    "fetched_at": "2025-12-13T04:15:42.779Z"
+  },
+  "tt0281322": {
+    "imdb_id": "tt0281322",
+    "metascore": 58,
+    "imdb": 6.1,
+    "rt": 50,
+    "fetched_at": "2025-12-13T04:15:42.782Z"
+  },
+  "tt1289406": {
+    "imdb_id": "tt1289406",
+    "metascore": 55,
+    "imdb": 7.2,
+    "rt": 64,
+    "fetched_at": "2025-12-13T04:15:42.940Z"
+  },
+  "tt0190332": {
+    "imdb_id": "tt0190332",
+    "metascore": 94,
+    "imdb": 7.9,
+    "rt": 98,
+    "fetched_at": "2025-12-13T04:15:43.078Z"
+  },
+  "tt0132245": {
+    "imdb_id": "tt0132245",
+    "metascore": 29,
+    "imdb": 4.6,
+    "rt": 13,
+    "fetched_at": "2025-12-13T04:15:43.118Z"
+  },
+  "tt0281190": {
+    "imdb_id": "tt0281190",
+    "metascore": 36,
+    "imdb": 6.1,
+    "rt": 18,
+    "fetched_at": "2025-12-13T04:15:43.194Z"
+  },
+  "tt0938283": {
+    "imdb_id": "tt0938283",
+    "metascore": 20,
+    "imdb": 4,
+    "rt": 5,
+    "fetched_at": "2025-12-13T04:15:43.251Z"
+  },
+  "tt0427528": {
+    "imdb_id": "tt0427528",
+    "metascore": null,
+    "imdb": 4.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:43.440Z"
+  },
+  "tt1227177": {
+    "imdb_id": "tt1227177",
+    "metascore": null,
+    "imdb": 5.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:43.461Z"
+  },
+  "tt0448157": {
+    "imdb_id": "tt0448157",
+    "metascore": 49,
+    "imdb": 6.4,
+    "rt": 42,
+    "fetched_at": "2025-12-13T04:15:43.590Z"
+  },
+  "tt0473075": {
+    "imdb_id": "tt0473075",
+    "metascore": 50,
+    "imdb": 6.5,
+    "rt": 37,
+    "fetched_at": "2025-12-13T04:15:43.612Z"
+  },
+  "tt1235827": {
+    "imdb_id": "tt1235827",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:43.717Z"
+  },
+  "tt1023111": {
+    "imdb_id": "tt1023111",
+    "metascore": 39,
+    "imdb": 6.5,
+    "rt": 21,
+    "fetched_at": "2025-12-13T04:15:43.790Z"
+  },
+  "tt0988982": {
+    "imdb_id": "tt0988982",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:43.833Z"
+  },
+  "tt0278295": {
+    "imdb_id": "tt0278295",
+    "metascore": 34,
+    "imdb": 5.8,
+    "rt": 31,
+    "fetched_at": "2025-12-13T04:15:43.855Z"
+  },
+  "tt0362590": {
+    "imdb_id": "tt0362590",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 11,
+    "fetched_at": "2025-12-13T04:15:44.034Z"
+  },
+  "tt0313911": {
+    "imdb_id": "tt0313911",
+    "metascore": 41,
+    "imdb": 5.1,
+    "rt": 38,
+    "fetched_at": "2025-12-13T04:15:44.076Z"
+  },
+  "tt0317740": {
+    "imdb_id": "tt0317740",
+    "metascore": 68,
+    "imdb": 7,
+    "rt": 72,
+    "fetched_at": "2025-12-13T04:15:44.151Z"
+  },
+  "tt0479537": {
+    "imdb_id": "tt0479537",
+    "metascore": 62,
+    "imdb": 6.6,
+    "rt": 57,
+    "fetched_at": "2025-12-13T04:15:44.177Z"
+  },
+  "tt0859760": {
+    "imdb_id": "tt0859760",
+    "metascore": 61,
+    "imdb": 6.6,
+    "rt": 64,
+    "fetched_at": "2025-12-13T04:15:44.213Z"
+  },
+  "tt0306685": {
+    "imdb_id": "tt0306685",
+    "metascore": 36,
+    "imdb": 5.8,
+    "rt": 27,
+    "fetched_at": "2025-12-13T04:15:44.278Z"
+  },
+  "tt0279967": {
+    "imdb_id": "tt0279967",
+    "metascore": null,
+    "imdb": 5.7,
+    "rt": 0,
+    "fetched_at": "2025-12-13T04:15:44.311Z"
+  },
+  "tt0342258": {
+    "imdb_id": "tt0342258",
+    "metascore": 58,
+    "imdb": 7,
+    "rt": 66,
+    "fetched_at": "2025-12-13T04:15:44.330Z"
+  },
+  "tt1013743": {
+    "imdb_id": "tt1013743",
+    "metascore": 46,
+    "imdb": 6.3,
+    "rt": 51,
+    "fetched_at": "2025-12-13T04:15:44.413Z"
+  },
+  "tt0377818": {
+    "imdb_id": "tt0377818",
+    "metascore": 33,
+    "imdb": 5.1,
+    "rt": 14,
+    "fetched_at": "2025-12-13T04:15:44.469Z"
+  },
+  "tt0429493": {
+    "imdb_id": "tt0429493",
+    "metascore": 47,
+    "imdb": 6.7,
+    "rt": 48,
+    "fetched_at": "2025-12-13T04:15:44.507Z"
+  },
+  "tt0479647": {
+    "imdb_id": "tt0479647",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 80,
+    "fetched_at": "2025-12-13T04:15:44.747Z"
+  },
+  "tt0486946": {
+    "imdb_id": "tt0486946",
+    "metascore": 27,
+    "imdb": 5.9,
+    "rt": 14,
+    "fetched_at": "2025-12-13T04:15:44.762Z"
+  },
+  "tt0325703": {
+    "imdb_id": "tt0325703",
+    "metascore": 43,
+    "imdb": 5.5,
+    "rt": 24,
+    "fetched_at": "2025-12-13T04:15:44.827Z"
+  },
+  "tt0214641": {
+    "imdb_id": "tt0214641",
+    "metascore": null,
+    "imdb": 4.6,
+    "rt": 40,
+    "fetched_at": "2025-12-13T04:15:44.904Z"
+  },
+  "tt0240510": {
+    "imdb_id": "tt0240510",
+    "metascore": 49,
+    "imdb": 6.5,
+    "rt": 41,
+    "fetched_at": "2025-12-13T04:15:44.939Z"
+  },
+  "tt1533117": {
+    "imdb_id": "tt1533117",
+    "metascore": 66,
+    "imdb": 7.3,
+    "rt": 75,
+    "fetched_at": "2025-12-13T04:15:44.983Z"
+  },
+  "tt0235679": {
+    "imdb_id": "tt0235679",
+    "metascore": 22,
+    "imdb": 5.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.121Z"
+  },
+  "tt0310775": {
+    "imdb_id": "tt0310775",
+    "metascore": 59,
+    "imdb": 7.5,
+    "rt": 53,
+    "fetched_at": "2025-12-13T04:15:45.152Z"
+  },
+  "tt0295721": {
+    "imdb_id": "tt0295721",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.194Z"
+  },
+  "tt1232831": {
+    "imdb_id": "tt1232831",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.199Z"
+  },
+  "tt0314786": {
+    "imdb_id": "tt0314786",
+    "metascore": 46,
+    "imdb": 5.7,
+    "rt": 33,
+    "fetched_at": "2025-12-13T04:15:45.227Z"
+  },
+  "tt0416496": {
+    "imdb_id": "tt0416496",
+    "metascore": null,
+    "imdb": 5.7,
+    "rt": 56,
+    "fetched_at": "2025-12-13T04:15:45.274Z"
+  },
+  "tt0411477": {
+    "imdb_id": "tt0411477",
+    "metascore": 78,
+    "imdb": 7,
+    "rt": 86,
+    "fetched_at": "2025-12-13T04:15:45.286Z"
+  },
+  "tt0318649": {
+    "imdb_id": "tt0318649",
+    "metascore": 41,
+    "imdb": 6.1,
+    "rt": 37,
+    "fetched_at": "2025-12-13T04:15:45.334Z"
+  },
+  "tt0386140": {
+    "imdb_id": "tt0386140",
+    "metascore": 47,
+    "imdb": 6,
+    "rt": 27,
+    "fetched_at": "2025-12-13T04:15:45.411Z"
+  },
+  "tt1202514": {
+    "imdb_id": "tt1202514",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.437Z"
+  },
+  "tt0861739": {
+    "imdb_id": "tt0861739",
+    "metascore": 33,
+    "imdb": 8,
+    "rt": 51,
+    "fetched_at": "2025-12-13T04:15:45.484Z"
+  },
+  "tt0446059": {
+    "imdb_id": "tt0446059",
+    "metascore": 70,
+    "imdb": 7.6,
+    "rt": 73,
+    "fetched_at": "2025-12-13T04:15:45.579Z"
+  },
+  "tt0406816": {
+    "imdb_id": "tt0406816",
+    "metascore": 53,
+    "imdb": 6.9,
+    "rt": 37,
+    "fetched_at": "2025-12-13T04:15:45.639Z"
+  },
+  "tt0257231": {
+    "imdb_id": "tt0257231",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.721Z"
+  },
+  "tt0377062": {
+    "imdb_id": "tt0377062",
+    "metascore": 47,
+    "imdb": 6.1,
+    "rt": 30,
+    "fetched_at": "2025-12-13T04:15:45.760Z"
+  },
+  "tt0442933": {
+    "imdb_id": "tt0442933",
+    "metascore": 59,
+    "imdb": 6.3,
+    "rt": 71,
+    "fetched_at": "2025-12-13T04:15:45.794Z"
+  },
+  "tt0865556": {
+    "imdb_id": "tt0865556",
+    "metascore": 57,
+    "imdb": 6.5,
+    "rt": 63,
+    "fetched_at": "2025-12-13T04:15:45.847Z"
+  },
+  "tt0785035": {
+    "imdb_id": "tt0785035",
+    "metascore": 47,
+    "imdb": 6.2,
+    "rt": 49,
+    "fetched_at": "2025-12-13T04:15:45.869Z"
+  },
+  "tt0299981": {
+    "imdb_id": "tt0299981",
+    "metascore": null,
+    "imdb": 3,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:45.898Z"
+  },
+  "tt0357277": {
+    "imdb_id": "tt0357277",
+    "metascore": 34,
+    "imdb": 4.7,
+    "rt": 11,
+    "fetched_at": "2025-12-13T04:15:45.920Z"
+  },
+  "tt1190539": {
+    "imdb_id": "tt1190539",
+    "metascore": 64,
+    "imdb": 7.8,
+    "rt": 82,
+    "fetched_at": "2025-12-13T04:15:45.979Z"
+  },
+  "tt0433387": {
+    "imdb_id": "tt0433387",
+    "metascore": 56,
+    "imdb": 6.8,
+    "rt": 48,
+    "fetched_at": "2025-12-13T04:15:46.003Z"
+  },
+  "tt1172570": {
+    "imdb_id": "tt1172570",
+    "metascore": 71,
+    "imdb": 7,
+    "rt": 75,
+    "fetched_at": "2025-12-13T04:15:46.053Z"
+  },
+  "tt1587414": {
+    "imdb_id": "tt1587414",
+    "metascore": null,
+    "imdb": 5.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.189Z"
+  },
+  "tt0910934": {
+    "imdb_id": "tt0910934",
+    "metascore": null,
+    "imdb": 5.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.195Z"
+  },
+  "tt0367478": {
+    "imdb_id": "tt0367478",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.333Z"
+  },
+  "tt0287978": {
+    "imdb_id": "tt0287978",
+    "metascore": 42,
+    "imdb": 5.3,
+    "rt": 42,
+    "fetched_at": "2025-12-13T04:15:46.424Z"
+  },
+  "tt0362389": {
+    "imdb_id": "tt0362389",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.496Z"
+  },
+  "tt0272020": {
+    "imdb_id": "tt0272020",
+    "metascore": 43,
+    "imdb": 6.9,
+    "rt": 52,
+    "fetched_at": "2025-12-13T04:15:46.524Z"
+  },
+  "tt0458471": {
+    "imdb_id": "tt0458471",
+    "metascore": null,
+    "imdb": 5,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.572Z"
+  },
+  "tt0411272": {
+    "imdb_id": "tt0411272",
+    "metascore": 72,
+    "imdb": 7.4,
+    "rt": 81,
+    "fetched_at": "2025-12-13T04:15:46.644Z"
+  },
+  "tt0385004": {
+    "imdb_id": "tt0385004",
+    "metascore": 89,
+    "imdb": 7.5,
+    "rt": 87,
+    "fetched_at": "2025-12-13T04:15:46.697Z"
+  },
+  "tt0399327": {
+    "imdb_id": "tt0399327",
+    "metascore": 33,
+    "imdb": 5.5,
+    "rt": 12,
+    "fetched_at": "2025-12-13T04:15:46.746Z"
+  },
+  "tt0183869": {
+    "imdb_id": "tt0183869",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.784Z"
+  },
+  "tt1295071": {
+    "imdb_id": "tt1295071",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:46.866Z"
+  },
+  "tt0476680": {
+    "imdb_id": "tt0476680",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.000Z"
+  },
+  "tt1258137": {
+    "imdb_id": "tt1258137",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.032Z"
+  },
+  "tt1640571": {
+    "imdb_id": "tt1640571",
+    "metascore": null,
+    "imdb": 1.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.069Z"
+  },
+  "tt0259484": {
+    "imdb_id": "tt0259484",
+    "metascore": 49,
+    "imdb": 7,
+    "rt": 53,
+    "fetched_at": "2025-12-13T04:15:47.098Z"
+  },
+  "tt1813757": {
+    "imdb_id": "tt1813757",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.215Z"
+  },
+  "tt0449010": {
+    "imdb_id": "tt0449010",
+    "metascore": 38,
+    "imdb": 5.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.241Z"
+  },
+  "tt0327554": {
+    "imdb_id": "tt0327554",
+    "metascore": 27,
+    "imdb": 3.4,
+    "rt": 8,
+    "fetched_at": "2025-12-13T04:15:47.264Z"
+  },
+  "tt0439630": {
+    "imdb_id": "tt0439630",
+    "metascore": 48,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.292Z"
+  },
+  "tt1155696": {
+    "imdb_id": "tt1155696",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.381Z"
+  },
+  "tt1268987": {
+    "imdb_id": "tt1268987",
+    "metascore": null,
+    "imdb": 4.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.406Z"
+  },
+  "tt1153706": {
+    "imdb_id": "tt1153706",
+    "metascore": 40,
+    "imdb": 3.6,
+    "rt": 18,
+    "fetched_at": "2025-12-13T04:15:47.503Z"
+  },
+  "tt0184894": {
+    "imdb_id": "tt0184894",
+    "metascore": 77,
+    "imdb": 6.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T04:15:47.561Z"
+  },
+  "tt0814243": {
+    "imdb_id": "tt0814243",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T04:15:47.578Z"
+  },
+  "tt1127715": {
+    "imdb_id": "tt1127715",
+    "metascore": 77,
+    "imdb": 7.5,
+    "rt": 88,
+    "fetched_at": "2025-12-13T04:15:47.607Z"
+  },
+  "tt0456912": {
+    "imdb_id": "tt0456912",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 100,
+    "fetched_at": "2025-12-13T04:15:47.647Z"
+  },
+  "tt1183252": {
+    "imdb_id": "tt1183252",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 71,
+    "fetched_at": "2025-12-13T04:15:47.668Z"
+  },
+  "tt1183732": {
+    "imdb_id": "tt1183732",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": 80,
+    "fetched_at": "2025-12-13T04:15:47.743Z"
+  },
+  "tt0064603": {
+    "imdb_id": "tt0064603",
+    "metascore": 48,
+    "imdb": 6.5,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:09:48.207Z"
+  },
+  "tt0057193": {
+    "imdb_id": "tt0057193",
+    "metascore": 59,
+    "imdb": 7.5,
+    "rt": 69,
+    "fetched_at": "2025-12-13T16:09:48.208Z"
+  },
+  "tt0062994": {
+    "imdb_id": "tt0062994",
+    "metascore": 88,
+    "imdb": 7.4,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:48.263Z"
+  },
+  "tt0063374": {
+    "imdb_id": "tt0063374",
+    "metascore": 86,
+    "imdb": 7.6,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:09:48.395Z"
+  },
+  "tt0064782": {
+    "imdb_id": "tt0064782",
+    "metascore": 50,
+    "imdb": 6.6,
+    "rt": 45,
+    "fetched_at": "2025-12-13T16:09:48.452Z"
+  },
+  "tt0059793": {
+    "imdb_id": "tt0059793",
+    "metascore": 71,
+    "imdb": 6.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:09:48.492Z"
+  },
+  "tt0064418": {
+    "imdb_id": "tt0064418",
+    "metascore": 51,
+    "imdb": 7,
+    "rt": 43,
+    "fetched_at": "2025-12-13T16:09:48.528Z"
+  },
+  "tt0064100": {
+    "imdb_id": "tt0064100",
+    "metascore": 72,
+    "imdb": 6.7,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:09:48.549Z"
+  },
+  "tt0064117": {
+    "imdb_id": "tt0064117",
+    "metascore": 67,
+    "imdb": 7.2,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:09:48.573Z"
+  },
+  "tt0061385": {
+    "imdb_id": "tt0061385",
+    "metascore": 55,
+    "imdb": 7,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:09:48.604Z"
+  },
+  "tt0053779": {
+    "imdb_id": "tt0053779",
+    "metascore": 95,
+    "imdb": 8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:48.713Z"
+  },
+  "tt0059017": {
+    "imdb_id": "tt0059017",
+    "metascore": 60,
+    "imdb": 6.7,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:09:48.743Z"
+  },
+  "tt0057187": {
+    "imdb_id": "tt0057187",
+    "metascore": 63,
+    "imdb": 7.3,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:09:48.763Z"
+  },
+  "tt0055100": {
+    "imdb_id": "tt0055100",
+    "metascore": 58,
+    "imdb": 7.1,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:09:48.789Z"
+  },
+  "tt0056262": {
+    "imdb_id": "tt0056262",
+    "metascore": 76,
+    "imdb": 7.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:09:48.809Z"
+  },
+  "tt0059903": {
+    "imdb_id": "tt0059903",
+    "metascore": null,
+    "imdb": 6,
+    "rt": 28,
+    "fetched_at": "2025-12-13T16:09:48.828Z"
+  },
+  "tt0056923": {
+    "imdb_id": "tt0056923",
+    "metascore": 83,
+    "imdb": 7.8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:48.862Z"
+  },
+  "tt0061135": {
+    "imdb_id": "tt0061135",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:48.875Z"
+  },
+  "tt0057298": {
+    "imdb_id": "tt0057298",
+    "metascore": 62,
+    "imdb": 7.1,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:09:48.895Z"
+  },
+  "tt0058335": {
+    "imdb_id": "tt0058335",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:09:48.928Z"
+  },
+  "tt0056891": {
+    "imdb_id": "tt0056891",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:09:48.964Z"
+  },
+  "tt0058182": {
+    "imdb_id": "tt0058182",
+    "metascore": 96,
+    "imdb": 7.5,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:09:49.030Z"
+  },
+  "tt0058586": {
+    "imdb_id": "tt0058586",
+    "metascore": 70,
+    "imdb": 7.3,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:09:49.037Z"
+  },
+  "tt0058725": {
+    "imdb_id": "tt0058725",
+    "metascore": 69,
+    "imdb": 6.3,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:09:49.090Z"
+  },
+  "tt0058571": {
+    "imdb_id": "tt0058571",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:09:49.169Z"
+  },
+  "tt0057413": {
+    "imdb_id": "tt0057413",
+    "metascore": 55,
+    "imdb": 7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:09:49.184Z"
+  },
+  "tt0061584": {
+    "imdb_id": "tt0061584",
+    "metascore": 34,
+    "imdb": 6.2,
+    "rt": 29,
+    "fetched_at": "2025-12-13T16:09:49.235Z"
+  },
+  "tt0053644": {
+    "imdb_id": "tt0053644",
+    "metascore": 70,
+    "imdb": 6.5,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:09:49.257Z"
+  },
+  "tt0062803": {
+    "imdb_id": "tt0062803",
+    "metascore": 64,
+    "imdb": 7,
+    "rt": 70,
+    "fetched_at": "2025-12-13T16:09:49.302Z"
+  },
+  "tt0057012": {
+    "imdb_id": "tt0057012",
+    "metascore": 97,
+    "imdb": 8.3,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:09:49.328Z"
+  },
+  "tt0065063": {
+    "imdb_id": "tt0065063",
+    "metascore": 67,
+    "imdb": 7.2,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:09:49.340Z"
+  },
+  "tt0053716": {
+    "imdb_id": "tt0053716",
+    "metascore": null,
+    "imdb": 5.9,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:09:49.393Z"
+  },
+  "tt0054692": {
+    "imdb_id": "tt0054692",
+    "metascore": 58,
+    "imdb": 6.1,
+    "rt": 22,
+    "fetched_at": "2025-12-13T16:09:49.469Z"
+  },
+  "tt0057251": {
+    "imdb_id": "tt0057251",
+    "metascore": 61,
+    "imdb": 7.5,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:09:49.474Z"
+  },
+  "tt0058324": {
+    "imdb_id": "tt0058324",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:09:49.486Z"
+  },
+  "tt0055256": {
+    "imdb_id": "tt0055256",
+    "metascore": 73,
+    "imdb": 7.8,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:09:49.541Z"
+  },
+  "tt0057007": {
+    "imdb_id": "tt0057007",
+    "metascore": 64,
+    "imdb": 6.7,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:09:49.551Z"
+  },
+  "tt0060153": {
+    "imdb_id": "tt0060153",
+    "metascore": 71,
+    "imdb": 6.5,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:09:49.605Z"
+  },
+  "tt0053877": {
+    "imdb_id": "tt0053877",
+    "metascore": 51,
+    "imdb": 6.4,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:09:49.627Z"
+  },
+  "tt0054135": {
+    "imdb_id": "tt0054135",
+    "metascore": 57,
+    "imdb": 6.5,
+    "rt": 47,
+    "fetched_at": "2025-12-13T16:09:49.677Z"
+  },
+  "tt0055312": {
+    "imdb_id": "tt0055312",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:09:49.685Z"
+  },
+  "tt0054195": {
+    "imdb_id": "tt0054195",
+    "metascore": 66,
+    "imdb": 7.4,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:09:49.745Z"
+  },
+  "tt0056142": {
+    "imdb_id": "tt0056142",
+    "metascore": 40,
+    "imdb": 5.7,
+    "rt": 52,
+    "fetched_at": "2025-12-13T16:09:49.759Z"
+  },
+  "tt0063415": {
+    "imdb_id": "tt0063415",
+    "metascore": 64,
+    "imdb": 7.4,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:09:49.823Z"
+  },
+  "tt0060125": {
+    "imdb_id": "tt0060125",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:49.891Z"
+  },
+  "tt0062687": {
+    "imdb_id": "tt0062687",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:49.961Z"
+  },
+  "tt0057869": {
+    "imdb_id": "tt0057869",
+    "metascore": 93,
+    "imdb": 7.6,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:09:50.034Z"
+  },
+  "tt0062695": {
+    "imdb_id": "tt0062695",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:09:50.096Z"
+  },
+  "tt0061369": {
+    "imdb_id": "tt0061369",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.109Z"
+  },
+  "tt0063823": {
+    "imdb_id": "tt0063823",
+    "metascore": 79,
+    "imdb": 7.4,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:09:50.176Z"
+  },
+  "tt0061473": {
+    "imdb_id": "tt0061473",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:50.197Z"
+  },
+  "tt0060959": {
+    "imdb_id": "tt0060959",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:09:50.218Z"
+  },
+  "tt0055572": {
+    "imdb_id": "tt0055572",
+    "metascore": 71,
+    "imdb": 7.3,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:09:50.256Z"
+  },
+  "tt0054033": {
+    "imdb_id": "tt0054033",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:09:50.259Z"
+  },
+  "tt0063198": {
+    "imdb_id": "tt0063198",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:09:50.315Z"
+  },
+  "tt0059170": {
+    "imdb_id": "tt0059170",
+    "metascore": 65,
+    "imdb": 6.6,
+    "rt": 74,
+    "fetched_at": "2025-12-13T16:09:50.325Z"
+  },
+  "tt0059241": {
+    "imdb_id": "tt0059241",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.362Z"
+  },
+  "tt0056868": {
+    "imdb_id": "tt0056868",
+    "metascore": 82,
+    "imdb": 7.2,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:50.400Z"
+  },
+  "tt0063036": {
+    "imdb_id": "tt0063036",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:09:50.411Z"
+  },
+  "tt0059051": {
+    "imdb_id": "tt0059051",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.439Z"
+  },
+  "tt0058249": {
+    "imdb_id": "tt0058249",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:09:50.462Z"
+  },
+  "tt0060161": {
+    "imdb_id": "tt0060161",
+    "metascore": null,
+    "imdb": 8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.534Z"
+  },
+  "tt0056171": {
+    "imdb_id": "tt0056171",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.560Z"
+  },
+  "tt0062759": {
+    "imdb_id": "tt0062759",
+    "metascore": null,
+    "imdb": 8.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.626Z"
+  },
+  "tt0056969": {
+    "imdb_id": "tt0056969",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.680Z"
+  },
+  "tt0057051": {
+    "imdb_id": "tt0057051",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.780Z"
+  },
+  "tt0055602": {
+    "imdb_id": "tt0055602",
+    "metascore": null,
+    "imdb": 8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.801Z"
+  },
+  "tt0063485": {
+    "imdb_id": "tt0063485",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.877Z"
+  },
+  "tt0054442": {
+    "imdb_id": "tt0054442",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.891Z"
+  },
+  "tt0056945": {
+    "imdb_id": "tt0056945",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:09:50.953Z"
+  },
+  "tt0054734": {
+    "imdb_id": "tt0054734",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.963Z"
+  },
+  "tt0054413": {
+    "imdb_id": "tt0054413",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:50.977Z"
+  },
+  "tt0062080": {
+    "imdb_id": "tt0062080",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.037Z"
+  },
+  "tt0063288": {
+    "imdb_id": "tt0063288",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.115Z"
+  },
+  "tt0052997": {
+    "imdb_id": "tt0052997",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:09:51.129Z"
+  },
+  "tt0055526": {
+    "imdb_id": "tt0055526",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.147Z"
+  },
+  "tt0055535": {
+    "imdb_id": "tt0055535",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.190Z"
+  },
+  "tt0055805": {
+    "imdb_id": "tt0055805",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:09:51.223Z"
+  },
+  "tt0057171": {
+    "imdb_id": "tt0057171",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:09:51.262Z"
+  },
+  "tt0058265": {
+    "imdb_id": "tt0058265",
+    "metascore": 63,
+    "imdb": 6.9,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:09:51.271Z"
+  },
+  "tt0058564": {
+    "imdb_id": "tt0058564",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.322Z"
+  },
+  "tt0064612": {
+    "imdb_id": "tt0064612",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:09:51.323Z"
+  },
+  "tt0055400": {
+    "imdb_id": "tt0055400",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.328Z"
+  },
+  "tt0053600": {
+    "imdb_id": "tt0053600",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.398Z"
+  },
+  "tt0058438": {
+    "imdb_id": "tt0058438",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.400Z"
+  },
+  "tt0058663": {
+    "imdb_id": "tt0058663",
+    "metascore": null,
+    "imdb": 4.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.403Z"
+  },
+  "tt0062120": {
+    "imdb_id": "tt0062120",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.461Z"
+  },
+  "tt0121763": {
+    "imdb_id": "tt0121763",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.474Z"
+  },
+  "tt0057323": {
+    "imdb_id": "tt0057323",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.532Z"
+  },
+  "tt0061781": {
+    "imdb_id": "tt0061781",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:09:51.534Z"
+  },
+  "tt0056917": {
+    "imdb_id": "tt0056917",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.566Z"
+  },
+  "tt0057422": {
+    "imdb_id": "tt0057422",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.628Z"
+  },
+  "tt0059049": {
+    "imdb_id": "tt0059049",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.643Z"
+  },
+  "tt0061937": {
+    "imdb_id": "tt0061937",
+    "metascore": 50,
+    "imdb": 6.1,
+    "rt": 64,
+    "fetched_at": "2025-12-13T16:09:51.673Z"
+  },
+  "tt0066534": {
+    "imdb_id": "tt0066534",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:51.692Z"
+  },
+  "tt0059499": {
+    "imdb_id": "tt0059499",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.749Z"
+  },
+  "tt0061132": {
+    "imdb_id": "tt0061132",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:09:51.755Z"
+  },
+  "tt0064146": {
+    "imdb_id": "tt0064146",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.782Z"
+  },
+  "tt0058548": {
+    "imdb_id": "tt0058548",
+    "metascore": null,
+    "imdb": 2.7,
+    "rt": 25,
+    "fetched_at": "2025-12-13T16:09:51.818Z"
+  },
+  "tt0054649": {
+    "imdb_id": "tt0054649",
+    "metascore": 55,
+    "imdb": 6.1,
+    "rt": 36,
+    "fetched_at": "2025-12-13T16:09:51.825Z"
+  },
+  "tt0063557": {
+    "imdb_id": "tt0063557",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 70,
+    "fetched_at": "2025-12-13T16:09:51.893Z"
+  },
+  "tt0056943": {
+    "imdb_id": "tt0056943",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:51.901Z"
+  },
+  "tt0056552": {
+    "imdb_id": "tt0056552",
+    "metascore": 68,
+    "imdb": 6.8,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:09:51.955Z"
+  },
+  "tt0057870": {
+    "imdb_id": "tt0057870",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:51.961Z"
+  },
+  "tt0060647": {
+    "imdb_id": "tt0060647",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:09:51.967Z"
+  },
+  "tt0055069": {
+    "imdb_id": "tt0055069",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:52.006Z"
+  },
+  "tt0063462": {
+    "imdb_id": "tt0063462",
+    "metascore": 96,
+    "imdb": 7.5,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:09:52.034Z"
+  },
+  "tt0065566": {
+    "imdb_id": "tt0065566",
+    "metascore": 54,
+    "imdb": 6,
+    "rt": 57,
+    "fetched_at": "2025-12-13T16:09:52.068Z"
+  },
+  "tt0060445": {
+    "imdb_id": "tt0060445",
+    "metascore": 62,
+    "imdb": 7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:52.074Z"
+  },
+  "tt0058606": {
+    "imdb_id": "tt0058606",
+    "metascore": 63,
+    "imdb": 6.7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:09:52.108Z"
+  },
+  "tt0063829": {
+    "imdb_id": "tt0063829",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 57,
+    "fetched_at": "2025-12-13T16:09:52.150Z"
+  },
+  "tt0054152": {
+    "imdb_id": "tt0054152",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:52.171Z"
+  },
+  "tt0055832": {
+    "imdb_id": "tt0055832",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.190Z"
+  },
+  "tt0061407": {
+    "imdb_id": "tt0061407",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.219Z"
+  },
+  "tt0057967": {
+    "imdb_id": "tt0057967",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.249Z"
+  },
+  "tt0059557": {
+    "imdb_id": "tt0059557",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:09:52.250Z"
+  },
+  "tt0057591": {
+    "imdb_id": "tt0057591",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.285Z"
+  },
+  "tt0058453": {
+    "imdb_id": "tt0058453",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:09:52.322Z"
+  },
+  "tt0060121": {
+    "imdb_id": "tt0060121",
+    "metascore": 69,
+    "imdb": 6.4,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:09:52.326Z"
+  },
+  "tt0056512": {
+    "imdb_id": "tt0056512",
+    "metascore": null,
+    "imdb": 8.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.360Z"
+  },
+  "tt0134614": {
+    "imdb_id": "tt0134614",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.399Z"
+  },
+  "tt0054022": {
+    "imdb_id": "tt0054022",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 64,
+    "fetched_at": "2025-12-13T16:09:52.431Z"
+  },
+  "tt0058022": {
+    "imdb_id": "tt0058022",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.462Z"
+  },
+  "tt0058374": {
+    "imdb_id": "tt0058374",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.473Z"
+  },
+  "tt0053579": {
+    "imdb_id": "tt0053579",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:52.518Z"
+  },
+  "tt0060584": {
+    "imdb_id": "tt0060584",
+    "metascore": null,
+    "imdb": 8.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.539Z"
+  },
+  "tt0061343": {
+    "imdb_id": "tt0061343",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.563Z"
+  },
+  "tt0059550": {
+    "imdb_id": "tt0059550",
+    "metascore": null,
+    "imdb": 8.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.583Z"
+  },
+  "tt0055913": {
+    "imdb_id": "tt0055913",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:52.619Z"
+  },
+  "tt0066565": {
+    "imdb_id": "tt0066565",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.642Z"
+  },
+  "tt0061391": {
+    "imdb_id": "tt0061391",
+    "metascore": 77,
+    "imdb": 6.8,
+    "rt": 74,
+    "fetched_at": "2025-12-13T16:09:52.652Z"
+  },
+  "tt0054594": {
+    "imdb_id": "tt0054594",
+    "metascore": 75,
+    "imdb": 6.7,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:09:52.717Z"
+  },
+  "tt0060086": {
+    "imdb_id": "tt0060086",
+    "metascore": 70,
+    "imdb": 7,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:09:52.757Z"
+  },
+  "tt0063633": {
+    "imdb_id": "tt0063633",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:09:52.789Z"
+  },
+  "tt0059260": {
+    "imdb_id": "tt0059260",
+    "metascore": 58,
+    "imdb": 7.1,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:09:52.819Z"
+  },
+  "tt0057372": {
+    "imdb_id": "tt0057372",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:09:52.865Z"
+  },
+  "tt0062737": {
+    "imdb_id": "tt0062737",
+    "metascore": 71,
+    "imdb": 6.8,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:09:52.866Z"
+  },
+  "tt0064107": {
+    "imdb_id": "tt0064107",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:52.931Z"
+  },
+  "tt0060550": {
+    "imdb_id": "tt0060550",
+    "metascore": null,
+    "imdb": 8.1,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:09:52.954Z"
+  },
+  "tt0063674": {
+    "imdb_id": "tt0063674",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:52.962Z"
+  },
+  "tt0054814": {
+    "imdb_id": "tt0054814",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.058Z"
+  },
+  "tt0056575": {
+    "imdb_id": "tt0056575",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:09:53.096Z"
+  },
+  "tt0056059": {
+    "imdb_id": "tt0056059",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 65,
+    "fetched_at": "2025-12-13T16:09:53.145Z"
+  },
+  "tt0064175": {
+    "imdb_id": "tt0064175",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.168Z"
+  },
+  "tt0054949": {
+    "imdb_id": "tt0054949",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.197Z"
+  },
+  "tt0062136": {
+    "imdb_id": "tt0062136",
+    "metascore": 99,
+    "imdb": 7.8,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:09:53.243Z"
+  },
+  "tt0064860": {
+    "imdb_id": "tt0064860",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.252Z"
+  },
+  "tt0064505": {
+    "imdb_id": "tt0064505",
+    "metascore": 70,
+    "imdb": 7.2,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:09:53.266Z"
+  },
+  "tt0056443": {
+    "imdb_id": "tt0056443",
+    "metascore": 83,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:53.317Z"
+  },
+  "tt0060474": {
+    "imdb_id": "tt0060474",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.322Z"
+  },
+  "tt0062228": {
+    "imdb_id": "tt0062228",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.340Z"
+  },
+  "tt0060304": {
+    "imdb_id": "tt0060304",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:09:53.389Z"
+  },
+  "tt0060475": {
+    "imdb_id": "tt0060475",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.392Z"
+  },
+  "tt0065051": {
+    "imdb_id": "tt0065051",
+    "metascore": 56,
+    "imdb": 7.4,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:09:53.453Z"
+  },
+  "tt0121210": {
+    "imdb_id": "tt0121210",
+    "metascore": null,
+    "imdb": 8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.461Z"
+  },
+  "tt0057918": {
+    "imdb_id": "tt0057918",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.496Z"
+  },
+  "tt0058672": {
+    "imdb_id": "tt0058672",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:09:53.530Z"
+  },
+  "tt0062480": {
+    "imdb_id": "tt0062480",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:09:53.532Z"
+  },
+  "tt0063005": {
+    "imdb_id": "tt0063005",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.566Z"
+  },
+  "tt0060268": {
+    "imdb_id": "tt0060268",
+    "metascore": 75,
+    "imdb": 7,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:09:53.607Z"
+  },
+  "tt0054127": {
+    "imdb_id": "tt0054127",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:09:53.611Z"
+  },
+  "tt0060214": {
+    "imdb_id": "tt0060214",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:09:53.685Z"
+  },
+  "tt0064064": {
+    "imdb_id": "tt0064064",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.692Z"
+  },
+  "tt0058135": {
+    "imdb_id": "tt0058135",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.720Z"
+  },
+  "tt0061655": {
+    "imdb_id": "tt0061655",
+    "metascore": 56,
+    "imdb": 7,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:09:53.742Z"
+  },
+  "tt0057643": {
+    "imdb_id": "tt0057643",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.754Z"
+  },
+  "tt0058203": {
+    "imdb_id": "tt0058203",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 79,
+    "fetched_at": "2025-12-13T16:09:53.780Z"
+  },
+  "tt0062083": {
+    "imdb_id": "tt0062083",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.827Z"
+  },
+  "tt0062873": {
+    "imdb_id": "tt0062873",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:09:53.853Z"
+  },
+  "tt0058089": {
+    "imdb_id": "tt0058089",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.925Z"
+  },
+  "tt0060802": {
+    "imdb_id": "tt0060802",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:09:53.929Z"
+  },
+  "tt0064425": {
+    "imdb_id": "tt0064425",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:53.952Z"
+  },
+  "tt0059168": {
+    "imdb_id": "tt0059168",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:54.007Z"
+  },
+  "tt0060424": {
+    "imdb_id": "tt0060424",
+    "metascore": 63,
+    "imdb": 7.2,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:09:54.026Z"
+  },
+  "tt0057334": {
+    "imdb_id": "tt0057334",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:09:54.038Z"
+  },
+  "tt1180329": {
+    "imdb_id": "tt1180329",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:54.067Z"
+  },
+  "tt0058382": {
+    "imdb_id": "tt0058382",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:54.178Z"
+  },
+  "tt0058383": {
+    "imdb_id": "tt0058383",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:09:54.257Z"
+  },
+  "tt0055205": {
+    "imdb_id": "tt0055205",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:09:54.323Z"
+  },
+  "tt0065112": {
+    "imdb_id": "tt0065112",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 68,
+    "fetched_at": "2025-12-13T16:17:35.152Z"
+  },
+  "tt0064373": {
+    "imdb_id": "tt0064373",
+    "metascore": null,
+    "imdb": 3.9,
+    "rt": 38,
+    "fetched_at": "2025-12-13T16:17:35.154Z"
+  },
+  "tt0146970": {
+    "imdb_id": "tt0146970",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.170Z"
+  },
+  "tt0064030": {
+    "imdb_id": "tt0064030",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 43,
+    "fetched_at": "2025-12-13T16:17:35.180Z"
+  },
+  "tt0064639": {
+    "imdb_id": "tt0064639",
+    "metascore": 62,
+    "imdb": 5.9,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:35.207Z"
+  },
+  "tt0064349": {
+    "imdb_id": "tt0064349",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:35.250Z"
+  },
+  "tt0065088": {
+    "imdb_id": "tt0065088",
+    "metascore": 72,
+    "imdb": 7.8,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:35.272Z"
+  },
+  "tt0064169": {
+    "imdb_id": "tt0064169",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.281Z"
+  },
+  "tt0064793": {
+    "imdb_id": "tt0064793",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:35.283Z"
+  },
+  "tt0064888": {
+    "imdb_id": "tt0064888",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.367Z"
+  },
+  "tt0064115": {
+    "imdb_id": "tt0064115",
+    "metascore": 66,
+    "imdb": 8,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:35.394Z"
+  },
+  "tt0065150": {
+    "imdb_id": "tt0065150",
+    "metascore": 48,
+    "imdb": 6.6,
+    "rt": 44,
+    "fetched_at": "2025-12-13T16:17:35.398Z"
+  },
+  "tt0064118": {
+    "imdb_id": "tt0064118",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:35.425Z"
+  },
+  "tt0058555": {
+    "imdb_id": "tt0058555",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.489Z"
+  },
+  "tt0064861": {
+    "imdb_id": "tt0064861",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:35.603Z"
+  },
+  "tt0064828": {
+    "imdb_id": "tt0064828",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:17:35.631Z"
+  },
+  "tt0063555": {
+    "imdb_id": "tt0063555",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:35.636Z"
+  },
+  "tt0211729": {
+    "imdb_id": "tt0211729",
+    "metascore": null,
+    "imdb": 8.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.729Z"
+  },
+  "tt0064276": {
+    "imdb_id": "tt0064276",
+    "metascore": 85,
+    "imdb": 7.2,
+    "rt": 84,
+    "fetched_at": "2025-12-13T16:17:35.782Z"
+  },
+  "tt0064916": {
+    "imdb_id": "tt0064916",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.786Z"
+  },
+  "tt0064395": {
+    "imdb_id": "tt0064395",
+    "metascore": null,
+    "imdb": 5.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.804Z"
+  },
+  "tt0066579": {
+    "imdb_id": "tt0066579",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:35.879Z"
+  },
+  "tt0065214": {
+    "imdb_id": "tt0065214",
+    "metascore": 98,
+    "imdb": 7.9,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:35.891Z"
+  },
+  "tt0064068": {
+    "imdb_id": "tt0064068",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:35.930Z"
+  },
+  "tt0366905": {
+    "imdb_id": "tt0366905",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:17:36.040Z"
+  },
+  "tt0065163": {
+    "imdb_id": "tt0065163",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:36.062Z"
+  },
+  "tt0064110": {
+    "imdb_id": "tt0064110",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 20,
+    "fetched_at": "2025-12-13T16:17:36.131Z"
+  },
+  "tt0064615": {
+    "imdb_id": "tt0064615",
+    "metascore": 37,
+    "imdb": 6.7,
+    "rt": 20,
+    "fetched_at": "2025-12-13T16:17:36.159Z"
+  },
+  "tt0064990": {
+    "imdb_id": "tt0064990",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:36.209Z"
+  },
+  "tt0064265": {
+    "imdb_id": "tt0064265",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:36.216Z"
+  },
+  "tt0065234": {
+    "imdb_id": "tt0065234",
+    "metascore": 86,
+    "imdb": 8.1,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:36.283Z"
+  },
+  "tt0065126": {
+    "imdb_id": "tt0065126",
+    "metascore": 83,
+    "imdb": 7.4,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:36.290Z"
+  },
+  "tt0064816": {
+    "imdb_id": "tt0064816",
+    "metascore": 76,
+    "imdb": 7.1,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:36.342Z"
+  },
+  "tt0064665": {
+    "imdb_id": "tt0064665",
+    "metascore": 79,
+    "imdb": 7.8,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:36.353Z"
+  },
+  "tt0064840": {
+    "imdb_id": "tt0064840",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:36.354Z"
+  },
+  "tt0064323": {
+    "imdb_id": "tt0064323",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:36.392Z"
+  },
+  "tt0063819": {
+    "imdb_id": "tt0063819",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:36.462Z"
+  },
+  "tt0063293": {
+    "imdb_id": "tt0063293",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:36.462Z"
+  },
+  "tt0063970": {
+    "imdb_id": "tt0063970",
+    "metascore": null,
+    "imdb": 6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:36.493Z"
+  },
+  "tt0062653": {
+    "imdb_id": "tt0062653",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:36.569Z"
+  },
+  "tt0063056": {
+    "imdb_id": "tt0063056",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:36.608Z"
+  },
+  "tt0065207": {
+    "imdb_id": "tt0065207",
+    "metascore": 63,
+    "imdb": 7.6,
+    "rt": 84,
+    "fetched_at": "2025-12-13T16:17:36.622Z"
+  },
+  "tt0062893": {
+    "imdb_id": "tt0062893",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:36.636Z"
+  },
+  "tt0064116": {
+    "imdb_id": "tt0064116",
+    "metascore": 82,
+    "imdb": 8.5,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:36.667Z"
+  },
+  "tt0063850": {
+    "imdb_id": "tt0063850",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:36.677Z"
+  },
+  "tt0063230": {
+    "imdb_id": "tt0063230",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:36.721Z"
+  },
+  "tt0062909": {
+    "imdb_id": "tt0062909",
+    "metascore": 66,
+    "imdb": 6.5,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:36.728Z"
+  },
+  "tt0063032": {
+    "imdb_id": "tt0063032",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:36.773Z"
+  },
+  "tt0062952": {
+    "imdb_id": "tt0062952",
+    "metascore": 88,
+    "imdb": 7.4,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:17:36.774Z"
+  },
+  "tt0064130": {
+    "imdb_id": "tt0064130",
+    "metascore": null,
+    "imdb": 5.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:36.822Z"
+  },
+  "tt0062824": {
+    "imdb_id": "tt0062824",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:36.844Z"
+  },
+  "tt0063611": {
+    "imdb_id": "tt0063611",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:36.877Z"
+  },
+  "tt0062765": {
+    "imdb_id": "tt0062765",
+    "metascore": 81,
+    "imdb": 7.4,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:17:36.892Z"
+  },
+  "tt0063385": {
+    "imdb_id": "tt0063385",
+    "metascore": 74,
+    "imdb": 7.4,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:36.923Z"
+  },
+  "tt0063678": {
+    "imdb_id": "tt0063678",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:36.950Z"
+  },
+  "tt0062755": {
+    "imdb_id": "tt0062755",
+    "metascore": 66,
+    "imdb": 7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:36.969Z"
+  },
+  "tt0063227": {
+    "imdb_id": "tt0063227",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:37.040Z"
+  },
+  "tt0063803": {
+    "imdb_id": "tt0063803",
+    "metascore": 63,
+    "imdb": 6.5,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:17:37.041Z"
+  },
+  "tt0063663": {
+    "imdb_id": "tt0063663",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:37.070Z"
+  },
+  "tt0063671": {
+    "imdb_id": "tt0063671",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:37.099Z"
+  },
+  "tt0063172": {
+    "imdb_id": "tt0063172",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:37.132Z"
+  },
+  "tt0062639": {
+    "imdb_id": "tt0062639",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.158Z"
+  },
+  "tt0063642": {
+    "imdb_id": "tt0063642",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.183Z"
+  },
+  "tt0063035": {
+    "imdb_id": "tt0063035",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": 23,
+    "fetched_at": "2025-12-13T16:17:37.217Z"
+  },
+  "tt0062885": {
+    "imdb_id": "tt0062885",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:37.232Z"
+  },
+  "tt0061752": {
+    "imdb_id": "tt0061752",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.263Z"
+  },
+  "tt0063688": {
+    "imdb_id": "tt0063688",
+    "metascore": 66,
+    "imdb": 6.9,
+    "rt": 70,
+    "fetched_at": "2025-12-13T16:17:37.300Z"
+  },
+  "tt0063285": {
+    "imdb_id": "tt0063285",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:37.332Z"
+  },
+  "tt0061747": {
+    "imdb_id": "tt0061747",
+    "metascore": 62,
+    "imdb": 7,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:37.363Z"
+  },
+  "tt0063715": {
+    "imdb_id": "tt0063715",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:37.413Z"
+  },
+  "tt0062708": {
+    "imdb_id": "tt0062708",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 20,
+    "fetched_at": "2025-12-13T16:17:37.451Z"
+  },
+  "tt0063121": {
+    "imdb_id": "tt0063121",
+    "metascore": 49,
+    "imdb": 6.6,
+    "rt": 44,
+    "fetched_at": "2025-12-13T16:17:37.496Z"
+  },
+  "tt0756316": {
+    "imdb_id": "tt0756316",
+    "metascore": null,
+    "imdb": 8.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.513Z"
+  },
+  "tt0061955": {
+    "imdb_id": "tt0061955",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:17:37.555Z"
+  },
+  "tt0063518": {
+    "imdb_id": "tt0063518",
+    "metascore": 69,
+    "imdb": 7.6,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:37.588Z"
+  },
+  "tt0062092": {
+    "imdb_id": "tt0062092",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.613Z"
+  },
+  "tt0063759": {
+    "imdb_id": "tt0063759",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:37.669Z"
+  },
+  "tt0061402": {
+    "imdb_id": "tt0061402",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.708Z"
+  },
+  "tt0061357": {
+    "imdb_id": "tt0061357",
+    "metascore": null,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.735Z"
+  },
+  "tt0062430": {
+    "imdb_id": "tt0062430",
+    "metascore": 49,
+    "imdb": 6,
+    "rt": 32,
+    "fetched_at": "2025-12-13T16:17:37.778Z"
+  },
+  "tt0062861": {
+    "imdb_id": "tt0062861",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 65,
+    "fetched_at": "2025-12-13T16:17:37.816Z"
+  },
+  "tt0063010": {
+    "imdb_id": "tt0063010",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.825Z"
+  },
+  "tt0061709": {
+    "imdb_id": "tt0061709",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:37.848Z"
+  },
+  "tt0062151": {
+    "imdb_id": "tt0062151",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:37.880Z"
+  },
+  "tt0063811": {
+    "imdb_id": "tt0063811",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:37.884Z"
+  },
+  "tt0061856": {
+    "imdb_id": "tt0061856",
+    "metascore": null,
+    "imdb": 5.2,
+    "rt": 63,
+    "fetched_at": "2025-12-13T16:17:37.945Z"
+  },
+  "tt0063278": {
+    "imdb_id": "tt0063278",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:37.967Z"
+  },
+  "tt0061405": {
+    "imdb_id": "tt0061405",
+    "metascore": null,
+    "imdb": 6,
+    "rt": 57,
+    "fetched_at": "2025-12-13T16:17:37.982Z"
+  },
+  "tt0061809": {
+    "imdb_id": "tt0061809",
+    "metascore": 89,
+    "imdb": 7.9,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:38.017Z"
+  },
+  "tt0061636": {
+    "imdb_id": "tt0061636",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.030Z"
+  },
+  "tt0061735": {
+    "imdb_id": "tt0061735",
+    "metascore": 63,
+    "imdb": 7.8,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:17:38.089Z"
+  },
+  "tt0061576": {
+    "imdb_id": "tt0061576",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.113Z"
+  },
+  "tt0062229": {
+    "imdb_id": "tt0062229",
+    "metascore": 90,
+    "imdb": 8,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:38.172Z"
+  },
+  "tt0062168": {
+    "imdb_id": "tt0062168",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:38.231Z"
+  },
+  "tt0062374": {
+    "imdb_id": "tt0062374",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:38.246Z"
+  },
+  "tt0061852": {
+    "imdb_id": "tt0061852",
+    "metascore": 65,
+    "imdb": 7.6,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:38.260Z"
+  },
+  "tt0061512": {
+    "imdb_id": "tt0061512",
+    "metascore": 92,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:38.312Z"
+  },
+  "tt0061613": {
+    "imdb_id": "tt0061613",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:38.314Z"
+  },
+  "tt0060635": {
+    "imdb_id": "tt0060635",
+    "metascore": 100,
+    "imdb": 7.4,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:38.382Z"
+  },
+  "tt0062138": {
+    "imdb_id": "tt0062138",
+    "metascore": 86,
+    "imdb": 7.3,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:38.391Z"
+  },
+  "tt0061597": {
+    "imdb_id": "tt0061597",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.442Z"
+  },
+  "tt0062395": {
+    "imdb_id": "tt0062395",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 39,
+    "fetched_at": "2025-12-13T16:17:38.454Z"
+  },
+  "tt0062185": {
+    "imdb_id": "tt0062185",
+    "metascore": 67,
+    "imdb": 6.7,
+    "rt": 55,
+    "fetched_at": "2025-12-13T16:17:38.472Z"
+  },
+  "tt0061418": {
+    "imdb_id": "tt0061418",
+    "metascore": 86,
+    "imdb": 7.7,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:38.523Z"
+  },
+  "tt0064208": {
+    "imdb_id": "tt0064208",
+    "metascore": 38,
+    "imdb": 7,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:17:38.539Z"
+  },
+  "tt0061811": {
+    "imdb_id": "tt0061811",
+    "metascore": 76,
+    "imdb": 7.9,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:38.582Z"
+  },
+  "tt0062376": {
+    "imdb_id": "tt0062376",
+    "metascore": 55,
+    "imdb": 7.6,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:38.592Z"
+  },
+  "tt0062472": {
+    "imdb_id": "tt0062472",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.650Z"
+  },
+  "tt0061847": {
+    "imdb_id": "tt0061847",
+    "metascore": 90,
+    "imdb": 8.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:38.665Z"
+  },
+  "tt0062301": {
+    "imdb_id": "tt0062301",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:38.674Z"
+  },
+  "tt0061589": {
+    "imdb_id": "tt0061589",
+    "metascore": 84,
+    "imdb": 7.9,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:38.714Z"
+  },
+  "tt0061882": {
+    "imdb_id": "tt0061882",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:38.733Z"
+  },
+  "tt0061395": {
+    "imdb_id": "tt0061395",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:38.737Z"
+  },
+  "tt0061376": {
+    "imdb_id": "tt0061376",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.789Z"
+  },
+  "tt0061578": {
+    "imdb_id": "tt0061578",
+    "metascore": 73,
+    "imdb": 7.7,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:38.805Z"
+  },
+  "tt0062352": {
+    "imdb_id": "tt0062352",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:17:38.827Z"
+  },
+  "tt0061683": {
+    "imdb_id": "tt0061683",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 62,
+    "fetched_at": "2025-12-13T16:17:38.857Z"
+  },
+  "tt0061996": {
+    "imdb_id": "tt0061996",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:38.879Z"
+  },
+  "tt0061770": {
+    "imdb_id": "tt0061770",
+    "metascore": 80,
+    "imdb": 7.4,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:38.885Z"
+  },
+  "tt0061495": {
+    "imdb_id": "tt0061495",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:38.926Z"
+  },
+  "tt0061429": {
+    "imdb_id": "tt0061429",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:38.987Z"
+  },
+  "tt0063501": {
+    "imdb_id": "tt0063501",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.008Z"
+  },
+  "tt0061320": {
+    "imdb_id": "tt0061320",
+    "metascore": null,
+    "imdb": 7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.028Z"
+  },
+  "tt0061819": {
+    "imdb_id": "tt0061819",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.058Z"
+  },
+  "tt0061328": {
+    "imdb_id": "tt0061328",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 76,
+    "fetched_at": "2025-12-13T16:17:39.078Z"
+  },
+  "tt0062038": {
+    "imdb_id": "tt0062038",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 43,
+    "fetched_at": "2025-12-13T16:17:39.104Z"
+  },
+  "tt0060984": {
+    "imdb_id": "tt0060984",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.155Z"
+  },
+  "tt0060176": {
+    "imdb_id": "tt0060176",
+    "metascore": 82,
+    "imdb": 7.4,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:39.183Z"
+  },
+  "tt0060437": {
+    "imdb_id": "tt0060437",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:17:39.231Z"
+  },
+  "tt0060107": {
+    "imdb_id": "tt0060107",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:39.257Z"
+  },
+  "tt0060196": {
+    "imdb_id": "tt0060196",
+    "metascore": 90,
+    "imdb": 8.8,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:39.292Z"
+  },
+  "tt0060472": {
+    "imdb_id": "tt0060472",
+    "metascore": 72,
+    "imdb": 7.2,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:39.375Z"
+  },
+  "tt0060934": {
+    "imdb_id": "tt0060934",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:17:39.429Z"
+  },
+  "tt0061587": {
+    "imdb_id": "tt0061587",
+    "metascore": 32,
+    "imdb": 6.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.436Z"
+  },
+  "tt0061619": {
+    "imdb_id": "tt0061619",
+    "metascore": 85,
+    "imdb": 7.5,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:39.511Z"
+  },
+  "tt0060305": {
+    "imdb_id": "tt0060305",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:39.518Z"
+  },
+  "tt0060782": {
+    "imdb_id": "tt0060782",
+    "metascore": 58,
+    "imdb": 5.7,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:39.519Z"
+  },
+  "tt0060666": {
+    "imdb_id": "tt0060666",
+    "metascore": null,
+    "imdb": 1.7,
+    "rt": 0,
+    "fetched_at": "2025-12-13T16:17:39.566Z"
+  },
+  "tt0060862": {
+    "imdb_id": "tt0060862",
+    "metascore": 75,
+    "imdb": 7.3,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:39.571Z"
+  },
+  "tt0060464": {
+    "imdb_id": "tt0060464",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": 63,
+    "fetched_at": "2025-12-13T16:17:39.572Z"
+  },
+  "tt0060827": {
+    "imdb_id": "tt0060827",
+    "metascore": 86,
+    "imdb": 8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:39.637Z"
+  },
+  "tt0060665": {
+    "imdb_id": "tt0060665",
+    "metascore": 72,
+    "imdb": 7.7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:39.676Z"
+  },
+  "tt0060164": {
+    "imdb_id": "tt0060164",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 33,
+    "fetched_at": "2025-12-13T16:17:39.716Z"
+  },
+  "tt0060397": {
+    "imdb_id": "tt0060397",
+    "metascore": 72,
+    "imdb": 6.8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:39.719Z"
+  },
+  "tt0060897": {
+    "imdb_id": "tt0060897",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": 13,
+    "fetched_at": "2025-12-13T16:17:39.741Z"
+  },
+  "tt0060390": {
+    "imdb_id": "tt0060390",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:39.781Z"
+  },
+  "tt0060955": {
+    "imdb_id": "tt0060955",
+    "metascore": 71,
+    "imdb": 7.6,
+    "rt": 79,
+    "fetched_at": "2025-12-13T16:17:39.787Z"
+  },
+  "tt0060794": {
+    "imdb_id": "tt0060794",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.855Z"
+  },
+  "tt0061107": {
+    "imdb_id": "tt0061107",
+    "metascore": 55,
+    "imdb": 6.6,
+    "rt": 63,
+    "fetched_at": "2025-12-13T16:17:39.873Z"
+  },
+  "tt0060177": {
+    "imdb_id": "tt0060177",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:39.935Z"
+  },
+  "tt0060440": {
+    "imdb_id": "tt0060440",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.938Z"
+  },
+  "tt0060548": {
+    "imdb_id": "tt0060548",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:39.991Z"
+  },
+  "tt0060748": {
+    "imdb_id": "tt0060748",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:17:39.996Z"
+  },
+  "tt0061065": {
+    "imdb_id": "tt0061065",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:40.002Z"
+  },
+  "tt0061184": {
+    "imdb_id": "tt0061184",
+    "metascore": 75,
+    "imdb": 8,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:40.074Z"
+  },
+  "tt0061138": {
+    "imdb_id": "tt0061138",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:40.092Z"
+  },
+  "tt0062262": {
+    "imdb_id": "tt0062262",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:40.098Z"
+  },
+  "tt0060355": {
+    "imdb_id": "tt0060355",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:40.139Z"
+  },
+  "tt0060138": {
+    "imdb_id": "tt0060138",
+    "metascore": 98,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:40.168Z"
+  },
+  "tt0059894": {
+    "imdb_id": "tt0059894",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:40.192Z"
+  },
+  "tt0060371": {
+    "imdb_id": "tt0060371",
+    "metascore": 82,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:40.214Z"
+  },
+  "tt0060675": {
+    "imdb_id": "tt0060675",
+    "metascore": 93,
+    "imdb": 7.4,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:40.265Z"
+  },
+  "tt0060758": {
+    "imdb_id": "tt0060758",
+    "metascore": 72,
+    "imdb": 7.4,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:40.280Z"
+  },
+  "tt0059643": {
+    "imdb_id": "tt0059643",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:40.351Z"
+  },
+  "tt0060182": {
+    "imdb_id": "tt0060182",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:40.359Z"
+  },
+  "tt0061101": {
+    "imdb_id": "tt0061101",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:40.370Z"
+  },
+  "tt0060277": {
+    "imdb_id": "tt0060277",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:40.420Z"
+  },
+  "tt0059079": {
+    "imdb_id": "tt0059079",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:40.424Z"
+  },
+  "tt0060490": {
+    "imdb_id": "tt0060490",
+    "metascore": 51,
+    "imdb": 6.8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:40.482Z"
+  },
+  "tt0060315": {
+    "imdb_id": "tt0060315",
+    "metascore": 75,
+    "imdb": 7.2,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:40.504Z"
+  },
+  "tt0060232": {
+    "imdb_id": "tt0060232",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:40.568Z"
+  },
+  "tt0058909": {
+    "imdb_id": "tt0058909",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:40.584Z"
+  },
+  "tt0060841": {
+    "imdb_id": "tt0060841",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:40.632Z"
+  },
+  "tt0059113": {
+    "imdb_id": "tt0059113",
+    "metascore": 69,
+    "imdb": 7.9,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:40.649Z"
+  },
+  "tt0059578": {
+    "imdb_id": "tt0059578",
+    "metascore": 74,
+    "imdb": 8.2,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:40.703Z"
+  },
+  "tt0059346": {
+    "imdb_id": "tt0059346",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:17:40.712Z"
+  },
+  "tt0059127": {
+    "imdb_id": "tt0059127",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:40.794Z"
+  },
+  "tt0060545": {
+    "imdb_id": "tt0060545",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:40.849Z"
+  },
+  "tt0059749": {
+    "imdb_id": "tt0059749",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:40.859Z"
+  },
+  "tt0059183": {
+    "imdb_id": "tt0059183",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:40.924Z"
+  },
+  "tt0059080": {
+    "imdb_id": "tt0059080",
+    "metascore": null,
+    "imdb": 5.2,
+    "rt": 40,
+    "fetched_at": "2025-12-13T16:17:40.970Z"
+  },
+  "tt0059592": {
+    "imdb_id": "tt0059592",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:41.014Z"
+  },
+  "tt0059573": {
+    "imdb_id": "tt0059573",
+    "metascore": 73,
+    "imdb": 8,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:41.072Z"
+  },
+  "tt0059448": {
+    "imdb_id": "tt0059448",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:41.092Z"
+  },
+  "tt0060903": {
+    "imdb_id": "tt0060903",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.141Z"
+  },
+  "tt0059037": {
+    "imdb_id": "tt0059037",
+    "metascore": 67,
+    "imdb": 7.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:41.162Z"
+  },
+  "tt0059263": {
+    "imdb_id": "tt0059263",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:41.209Z"
+  },
+  "tt0059915": {
+    "imdb_id": "tt0059915",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.253Z"
+  },
+  "tt0058886": {
+    "imdb_id": "tt0058886",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:41.261Z"
+  },
+  "tt0059619": {
+    "imdb_id": "tt0059619",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:41.289Z"
+  },
+  "tt0059496": {
+    "imdb_id": "tt0059496",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:17:41.305Z"
+  },
+  "tt0058642": {
+    "imdb_id": "tt0058642",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:41.353Z"
+  },
+  "tt0059084": {
+    "imdb_id": "tt0059084",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:41.399Z"
+  },
+  "tt0058997": {
+    "imdb_id": "tt0058997",
+    "metascore": 77,
+    "imdb": 7.3,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:41.430Z"
+  },
+  "tt0061075": {
+    "imdb_id": "tt0061075",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.499Z"
+  },
+  "tt0059792": {
+    "imdb_id": "tt0059792",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:17:41.504Z"
+  },
+  "tt0058343": {
+    "imdb_id": "tt0058343",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.557Z"
+  },
+  "tt0059727": {
+    "imdb_id": "tt0059727",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.590Z"
+  },
+  "tt0059043": {
+    "imdb_id": "tt0059043",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:41.639Z"
+  },
+  "tt0059126": {
+    "imdb_id": "tt0059126",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": 48,
+    "fetched_at": "2025-12-13T16:17:41.642Z"
+  },
+  "tt0059711": {
+    "imdb_id": "tt0059711",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:41.699Z"
+  },
+  "tt0057960": {
+    "imdb_id": "tt0057960",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:41.722Z"
+  },
+  "tt0060736": {
+    "imdb_id": "tt0060736",
+    "metascore": 64,
+    "imdb": 7.3,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:41.740Z"
+  },
+  "tt0059274": {
+    "imdb_id": "tt0059274",
+    "metascore": 81,
+    "imdb": 7.8,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:41.769Z"
+  },
+  "tt0059527": {
+    "imdb_id": "tt0059527",
+    "metascore": null,
+    "imdb": 8.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:41.795Z"
+  },
+  "tt0059885": {
+    "imdb_id": "tt0059885",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:41.858Z"
+  },
+  "tt0059309": {
+    "imdb_id": "tt0059309",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 37,
+    "fetched_at": "2025-12-13T16:17:41.879Z"
+  },
+  "tt0058888": {
+    "imdb_id": "tt0058888",
+    "metascore": 90,
+    "imdb": 8.3,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:41.923Z"
+  },
+  "tt0059740": {
+    "imdb_id": "tt0059740",
+    "metascore": 72,
+    "imdb": 7.1,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:41.926Z"
+  },
+  "tt0059245": {
+    "imdb_id": "tt0059245",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 42,
+    "fetched_at": "2025-12-13T16:17:41.978Z"
+  },
+  "tt0059575": {
+    "imdb_id": "tt0059575",
+    "metascore": 69,
+    "imdb": 7.6,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:41.999Z"
+  },
+  "tt0059418": {
+    "imdb_id": "tt0059418",
+    "metascore": 62,
+    "imdb": 6.7,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:42.027Z"
+  },
+  "tt0059549": {
+    "imdb_id": "tt0059549",
+    "metascore": 70,
+    "imdb": 6.6,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:42.028Z"
+  },
+  "tt0059319": {
+    "imdb_id": "tt0059319",
+    "metascore": 66,
+    "imdb": 7.2,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:42.070Z"
+  },
+  "tt0058985": {
+    "imdb_id": "tt0058985",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:42.102Z"
+  },
+  "tt0059742": {
+    "imdb_id": "tt0059742",
+    "metascore": 63,
+    "imdb": 8.1,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:42.103Z"
+  },
+  "tt0058715": {
+    "imdb_id": "tt0058715",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:42.140Z"
+  },
+  "tt0058544": {
+    "imdb_id": "tt0058544",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 77,
+    "fetched_at": "2025-12-13T16:17:42.171Z"
+  },
+  "tt0059125": {
+    "imdb_id": "tt0059125",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:42.173Z"
+  },
+  "tt0058740": {
+    "imdb_id": "tt0058740",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:42.258Z"
+  },
+  "tt0058536": {
+    "imdb_id": "tt0058536",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:42.270Z"
+  },
+  "tt0058138": {
+    "imdb_id": "tt0058138",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:17:42.281Z"
+  },
+  "tt0059821": {
+    "imdb_id": "tt0059821",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:42.350Z"
+  },
+  "tt0057831": {
+    "imdb_id": "tt0057831",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 79,
+    "fetched_at": "2025-12-13T16:17:42.370Z"
+  },
+  "tt0057846": {
+    "imdb_id": "tt0057846",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:42.412Z"
+  },
+  "tt0058701": {
+    "imdb_id": "tt0058701",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:42.453Z"
+  },
+  "tt0059440": {
+    "imdb_id": "tt0059440",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:42.456Z"
+  },
+  "tt0058430": {
+    "imdb_id": "tt0058430",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:42.477Z"
+  },
+  "tt0058083": {
+    "imdb_id": "tt0058083",
+    "metascore": 75,
+    "imdb": 8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:42.549Z"
+  },
+  "tt0057940": {
+    "imdb_id": "tt0057940",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:17:42.552Z"
+  },
+  "tt0058390": {
+    "imdb_id": "tt0058390",
+    "metascore": 83,
+    "imdb": 7.2,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:42.571Z"
+  },
+  "tt0058155": {
+    "imdb_id": "tt0058155",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:42.631Z"
+  },
+  "tt0058461": {
+    "imdb_id": "tt0058461",
+    "metascore": 65,
+    "imdb": 7.9,
+    "rt": 98,
+    "fetched_at": "2025-12-13T16:17:42.653Z"
+  },
+  "tt0058604": {
+    "imdb_id": "tt0058604",
+    "metascore": 91,
+    "imdb": 8.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:42.714Z"
+  },
+  "tt0058003": {
+    "imdb_id": "tt0058003",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:42.746Z"
+  },
+  "tt0059825": {
+    "imdb_id": "tt0059825",
+    "metascore": 80,
+    "imdb": 7.8,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:42.783Z"
+  },
+  "tt0058329": {
+    "imdb_id": "tt0058329",
+    "metascore": 73,
+    "imdb": 7.1,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:42.811Z"
+  },
+  "tt0058404": {
+    "imdb_id": "tt0058404",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:42.823Z"
+  },
+  "tt0058150": {
+    "imdb_id": "tt0058150",
+    "metascore": 87,
+    "imdb": 7.7,
+    "rt": 99,
+    "fetched_at": "2025-12-13T16:17:42.843Z"
+  },
+  "tt0058262": {
+    "imdb_id": "tt0058262",
+    "metascore": 72,
+    "imdb": 7,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:42.863Z"
+  },
+  "tt0058557": {
+    "imdb_id": "tt0058557",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:42.913Z"
+  },
+  "tt0058751": {
+    "imdb_id": "tt0058751",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:42.930Z"
+  },
+  "tt0056371": {
+    "imdb_id": "tt0056371",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:42.946Z"
+  },
+  "tt0058073": {
+    "imdb_id": "tt0058073",
+    "metascore": 54,
+    "imdb": 6,
+    "rt": 57,
+    "fetched_at": "2025-12-13T16:17:42.991Z"
+  },
+  "tt0058333": {
+    "imdb_id": "tt0058333",
+    "metascore": 77,
+    "imdb": 6.9,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:43.050Z"
+  },
+  "tt0058379": {
+    "imdb_id": "tt0058379",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:43.056Z"
+  },
+  "tt0058530": {
+    "imdb_id": "tt0058530",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:43.119Z"
+  },
+  "tt0058458": {
+    "imdb_id": "tt0058458",
+    "metascore": 78,
+    "imdb": 7.5,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:43.124Z"
+  },
+  "tt0058652": {
+    "imdb_id": "tt0058652",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:43.192Z"
+  },
+  "tt0057935": {
+    "imdb_id": "tt0057935",
+    "metascore": null,
+    "imdb": 8.1,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:43.197Z"
+  },
+  "tt0058578": {
+    "imdb_id": "tt0058578",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:43.287Z"
+  },
+  "tt0058694": {
+    "imdb_id": "tt0058694",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": 45,
+    "fetched_at": "2025-12-13T16:17:43.339Z"
+  },
+  "tt0058567": {
+    "imdb_id": "tt0058567",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:43.345Z"
+  },
+  "tt0058692": {
+    "imdb_id": "tt0058692",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:43.379Z"
+  },
+  "tt0058006": {
+    "imdb_id": "tt0058006",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:43.410Z"
+  },
+  "tt0057877": {
+    "imdb_id": "tt0057877",
+    "metascore": 68,
+    "imdb": 7.7,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:43.416Z"
+  },
+  "tt0058625": {
+    "imdb_id": "tt0058625",
+    "metascore": null,
+    "imdb": 8.4,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:43.443Z"
+  },
+  "tt0057993": {
+    "imdb_id": "tt0057993",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:43.486Z"
+  },
+  "tt0056327": {
+    "imdb_id": "tt0056327",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:43.488Z"
+  },
+  "tt0058620": {
+    "imdb_id": "tt0058620",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:43.555Z"
+  },
+  "tt0058450": {
+    "imdb_id": "tt0058450",
+    "metascore": 86,
+    "imdb": 7.8,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:43.557Z"
+  },
+  "tt0058576": {
+    "imdb_id": "tt0058576",
+    "metascore": 73,
+    "imdb": 7.8,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:43.624Z"
+  },
+  "tt0057546": {
+    "imdb_id": "tt0057546",
+    "metascore": 61,
+    "imdb": 7.1,
+    "rt": 65,
+    "fetched_at": "2025-12-13T16:17:43.631Z"
+  },
+  "tt0057997": {
+    "imdb_id": "tt0057997",
+    "metascore": 66,
+    "imdb": 7.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:43.729Z"
+  },
+  "tt0057345": {
+    "imdb_id": "tt0057345",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:43.776Z"
+  },
+  "tt0057058": {
+    "imdb_id": "tt0057058",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:43.802Z"
+  },
+  "tt0057076": {
+    "imdb_id": "tt0057076",
+    "metascore": 83,
+    "imdb": 7.3,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:43.836Z"
+  },
+  "tt0057426": {
+    "imdb_id": "tt0057426",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": 45,
+    "fetched_at": "2025-12-13T16:17:43.838Z"
+  },
+  "tt0057336": {
+    "imdb_id": "tt0057336",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:43.874Z"
+  },
+  "tt0056983": {
+    "imdb_id": "tt0056983",
+    "metascore": 64,
+    "imdb": 5.7,
+    "rt": 69,
+    "fetched_at": "2025-12-13T16:17:43.903Z"
+  },
+  "tt0057180": {
+    "imdb_id": "tt0057180",
+    "metascore": 87,
+    "imdb": 7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:43.910Z"
+  },
+  "tt0057611": {
+    "imdb_id": "tt0057611",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 85,
+    "fetched_at": "2025-12-13T16:17:43.943Z"
+  },
+  "tt0057687": {
+    "imdb_id": "tt0057687",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:43.987Z"
+  },
+  "tt0057490": {
+    "imdb_id": "tt0057490",
+    "metascore": 94,
+    "imdb": 7.8,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:44.071Z"
+  },
+  "tt0057078": {
+    "imdb_id": "tt0057078",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:17:44.087Z"
+  },
+  "tt0057286": {
+    "imdb_id": "tt0057286",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:44.166Z"
+  },
+  "tt0057495": {
+    "imdb_id": "tt0057495",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:44.203Z"
+  },
+  "tt0057261": {
+    "imdb_id": "tt0057261",
+    "metascore": 67,
+    "imdb": 6.9,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:44.246Z"
+  },
+  "tt0057226": {
+    "imdb_id": "tt0057226",
+    "metascore": null,
+    "imdb": 6.2,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:44.266Z"
+  },
+  "tt0122111": {
+    "imdb_id": "tt0122111",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:44.311Z"
+  },
+  "tt0057603": {
+    "imdb_id": "tt0057603",
+    "metascore": 82,
+    "imdb": 7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:44.429Z"
+  },
+  "tt0057197": {
+    "imdb_id": "tt0057197",
+    "metascore": 69,
+    "imdb": 7.3,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:44.450Z"
+  },
+  "tt0055894": {
+    "imdb_id": "tt0055894",
+    "metascore": null,
+    "imdb": 6.1,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:17:44.558Z"
+  },
+  "tt0057115": {
+    "imdb_id": "tt0057115",
+    "metascore": 86,
+    "imdb": 8.2,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:44.570Z"
+  },
+  "tt0057091": {
+    "imdb_id": "tt0057091",
+    "metascore": 100,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:44.621Z"
+  },
+  "tt0057129": {
+    "imdb_id": "tt0057129",
+    "metascore": 74,
+    "imdb": 7.4,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:44.631Z"
+  },
+  "tt0057569": {
+    "imdb_id": "tt0057569",
+    "metascore": null,
+    "imdb": 5,
+    "rt": 45,
+    "fetched_at": "2025-12-13T16:17:44.652Z"
+  },
+  "tt0056937": {
+    "imdb_id": "tt0056937",
+    "metascore": 60,
+    "imdb": 7,
+    "rt": 56,
+    "fetched_at": "2025-12-13T16:17:44.691Z"
+  },
+  "tt0056910": {
+    "imdb_id": "tt0056910",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:44.728Z"
+  },
+  "tt0056846": {
+    "imdb_id": "tt0056846",
+    "metascore": 76,
+    "imdb": 7.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:44.763Z"
+  },
+  "tt0057163": {
+    "imdb_id": "tt0057163",
+    "metascore": 62,
+    "imdb": 7.8,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:44.796Z"
+  },
+  "tt0056801": {
+    "imdb_id": "tt0056801",
+    "metascore": 93,
+    "imdb": 8,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:44.810Z"
+  },
+  "tt0057565": {
+    "imdb_id": "tt0057565",
+    "metascore": 90,
+    "imdb": 8.4,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:44.823Z"
+  },
+  "tt0057344": {
+    "imdb_id": "tt0057344",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:44.845Z"
+  },
+  "tt0336693": {
+    "imdb_id": "tt0336693",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:44.892Z"
+  },
+  "tt0057358": {
+    "imdb_id": "tt0057358",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 77,
+    "fetched_at": "2025-12-13T16:17:44.908Z"
+  },
+  "tt0056884": {
+    "imdb_id": "tt0056884",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:44.955Z"
+  },
+  "tt0057578": {
+    "imdb_id": "tt0057578",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:44.960Z"
+  },
+  "tt0059616": {
+    "imdb_id": "tt0059616",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:44.977Z"
+  },
+  "tt0056592": {
+    "imdb_id": "tt0056592",
+    "metascore": 88,
+    "imdb": 8.3,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:45.032Z"
+  },
+  "tt0055895": {
+    "imdb_id": "tt0055895",
+    "metascore": 74,
+    "imdb": 7.8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:45.033Z"
+  },
+  "tt0057443": {
+    "imdb_id": "tt0057443",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 71,
+    "fetched_at": "2025-12-13T16:17:45.051Z"
+  },
+  "tt0054821": {
+    "imdb_id": "tt0054821",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:45.107Z"
+  },
+  "tt0054177": {
+    "imdb_id": "tt0054177",
+    "metascore": 97,
+    "imdb": 7.1,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:45.139Z"
+  },
+  "tt0056085": {
+    "imdb_id": "tt0056085",
+    "metascore": 56,
+    "imdb": 7.1,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:45.204Z"
+  },
+  "tt0056444": {
+    "imdb_id": "tt0056444",
+    "metascore": 91,
+    "imdb": 8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:45.262Z"
+  },
+  "tt0056452": {
+    "imdb_id": "tt0056452",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:45.330Z"
+  },
+  "tt0056576": {
+    "imdb_id": "tt0056576",
+    "metascore": 72,
+    "imdb": 6.6,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:45.413Z"
+  },
+  "tt0056197": {
+    "imdb_id": "tt0056197",
+    "metascore": 75,
+    "imdb": 7.7,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:45.423Z"
+  },
+  "tt0056194": {
+    "imdb_id": "tt0056194",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 73,
+    "fetched_at": "2025-12-13T16:17:45.435Z"
+  },
+  "tt0056264": {
+    "imdb_id": "tt0056264",
+    "metascore": 48,
+    "imdb": 7.2,
+    "rt": 70,
+    "fetched_at": "2025-12-13T16:17:45.497Z"
+  },
+  "tt0056058": {
+    "imdb_id": "tt0056058",
+    "metascore": 85,
+    "imdb": 8.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:45.523Z"
+  },
+  "tt0055830": {
+    "imdb_id": "tt0055830",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:45.548Z"
+  },
+  "tt0056687": {
+    "imdb_id": "tt0056687",
+    "metascore": 75,
+    "imdb": 8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:45.625Z"
+  },
+  "tt0055798": {
+    "imdb_id": "tt0055798",
+    "metascore": 76,
+    "imdb": 7.8,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:45.650Z"
+  },
+  "tt0056218": {
+    "imdb_id": "tt0056218",
+    "metascore": 94,
+    "imdb": 7.9,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:45.691Z"
+  },
+  "tt0056215": {
+    "imdb_id": "tt0056215",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:45.770Z"
+  },
+  "tt0056412": {
+    "imdb_id": "tt0056412",
+    "metascore": 92,
+    "imdb": 7.4,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:45.828Z"
+  },
+  "tt0056663": {
+    "imdb_id": "tt0056663",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:45.839Z"
+  },
+  "tt0057427": {
+    "imdb_id": "tt0057427",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 84,
+    "fetched_at": "2025-12-13T16:17:45.905Z"
+  },
+  "tt0055728": {
+    "imdb_id": "tt0055728",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 79,
+    "fetched_at": "2025-12-13T16:17:45.929Z"
+  },
+  "tt0056195": {
+    "imdb_id": "tt0056195",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:45.942Z"
+  },
+  "tt0056241": {
+    "imdb_id": "tt0056241",
+    "metascore": 83,
+    "imdb": 8.1,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:46.015Z"
+  },
+  "tt0203612": {
+    "imdb_id": "tt0203612",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.051Z"
+  },
+  "tt0056111": {
+    "imdb_id": "tt0056111",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.090Z"
+  },
+  "tt0056062": {
+    "imdb_id": "tt0056062",
+    "metascore": 76,
+    "imdb": 6.9,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:46.119Z"
+  },
+  "tt0056322": {
+    "imdb_id": "tt0056322",
+    "metascore": null,
+    "imdb": 8.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:46.140Z"
+  },
+  "tt0056279": {
+    "imdb_id": "tt0056279",
+    "metascore": 73,
+    "imdb": 6.9,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:46.158Z"
+  },
+  "tt0056347": {
+    "imdb_id": "tt0056347",
+    "metascore": null,
+    "imdb": 6.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:46.196Z"
+  },
+  "tt0056217": {
+    "imdb_id": "tt0056217",
+    "metascore": 94,
+    "imdb": 8.1,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:46.234Z"
+  },
+  "tt0055019": {
+    "imdb_id": "tt0055019",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:46.264Z"
+  },
+  "tt0055601": {
+    "imdb_id": "tt0055601",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:46.291Z"
+  },
+  "tt0056736": {
+    "imdb_id": "tt0056736",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:46.294Z"
+  },
+  "tt0056714": {
+    "imdb_id": "tt0056714",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.333Z"
+  },
+  "tt0055972": {
+    "imdb_id": "tt0055972",
+    "metascore": 69,
+    "imdb": 7.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.384Z"
+  },
+  "tt0055824": {
+    "imdb_id": "tt0055824",
+    "metascore": 76,
+    "imdb": 7.7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:46.411Z"
+  },
+  "tt0055399": {
+    "imdb_id": "tt0055399",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.438Z"
+  },
+  "tt0055852": {
+    "imdb_id": "tt0055852",
+    "metascore": 87,
+    "imdb": 7.8,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:46.440Z"
+  },
+  "tt0056368": {
+    "imdb_id": "tt0056368",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 50,
+    "fetched_at": "2025-12-13T16:17:46.483Z"
+  },
+  "tt0056541": {
+    "imdb_id": "tt0056541",
+    "metascore": 53,
+    "imdb": 7.1,
+    "rt": 74,
+    "fetched_at": "2025-12-13T16:17:46.534Z"
+  },
+  "tt0056291": {
+    "imdb_id": "tt0056291",
+    "metascore": 83,
+    "imdb": 7.4,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:46.571Z"
+  },
+  "tt0055032": {
+    "imdb_id": "tt0055032",
+    "metascore": 97,
+    "imdb": 7.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:46.577Z"
+  },
+  "tt0053987": {
+    "imdb_id": "tt0053987",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:46.632Z"
+  },
+  "tt0055774": {
+    "imdb_id": "tt0055774",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:46.651Z"
+  },
+  "tt0054743": {
+    "imdb_id": "tt0054743",
+    "metascore": 49,
+    "imdb": 7.8,
+    "rt": 78,
+    "fetched_at": "2025-12-13T16:17:46.702Z"
+  },
+  "tt0055614": {
+    "imdb_id": "tt0055614",
+    "metascore": 86,
+    "imdb": 7.6,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:46.710Z"
+  },
+  "tt0055207": {
+    "imdb_id": "tt0055207",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 82,
+    "fetched_at": "2025-12-13T16:17:46.768Z"
+  },
+  "tt0055031": {
+    "imdb_id": "tt0055031",
+    "metascore": 60,
+    "imdb": 8.3,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:46.779Z"
+  },
+  "tt0055018": {
+    "imdb_id": "tt0055018",
+    "metascore": 88,
+    "imdb": 7.7,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:46.782Z"
+  },
+  "tt0054757": {
+    "imdb_id": "tt0054757",
+    "metascore": 55,
+    "imdb": 6.8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.816Z"
+  },
+  "tt0054745": {
+    "imdb_id": "tt0054745",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:46.832Z"
+  },
+  "tt0055052": {
+    "imdb_id": "tt0055052",
+    "metascore": 84,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.920Z"
+  },
+  "tt0055471": {
+    "imdb_id": "tt0055471",
+    "metascore": 74,
+    "imdb": 7.7,
+    "rt": 72,
+    "fetched_at": "2025-12-13T16:17:46.932Z"
+  },
+  "tt0055499": {
+    "imdb_id": "tt0055499",
+    "metascore": 84,
+    "imdb": 7.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:46.943Z"
+  },
+  "tt0055082": {
+    "imdb_id": "tt0055082",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:46.978Z"
+  },
+  "tt0055047": {
+    "imdb_id": "tt0055047",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:46.978Z"
+  },
+  "tt0055506": {
+    "imdb_id": "tt0055506",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:47.046Z"
+  },
+  "tt0055597": {
+    "imdb_id": "tt0055597",
+    "metascore": 85,
+    "imdb": 7.7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:47.071Z"
+  },
+  "tt0054599": {
+    "imdb_id": "tt0054599",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:47.118Z"
+  },
+  "tt0055320": {
+    "imdb_id": "tt0055320",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:47.126Z"
+  },
+  "tt0055608": {
+    "imdb_id": "tt0055608",
+    "metascore": 49,
+    "imdb": 6,
+    "rt": 72,
+    "fetched_at": "2025-12-13T16:17:47.148Z"
+  },
+  "tt0054997": {
+    "imdb_id": "tt0054997",
+    "metascore": 90,
+    "imdb": 7.9,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:47.189Z"
+  },
+  "tt0054756": {
+    "imdb_id": "tt0054756",
+    "metascore": null,
+    "imdb": 5.8,
+    "rt": 56,
+    "fetched_at": "2025-12-13T16:17:47.213Z"
+  },
+  "tt0055198": {
+    "imdb_id": "tt0055198",
+    "metascore": null,
+    "imdb": 6.6,
+    "rt": 80,
+    "fetched_at": "2025-12-13T16:17:47.214Z"
+  },
+  "tt0054632": {
+    "imdb_id": "tt0054632",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:47.263Z"
+  },
+  "tt0055505": {
+    "imdb_id": "tt0055505",
+    "metascore": 65,
+    "imdb": 7.4,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:47.266Z"
+  },
+  "tt0054777": {
+    "imdb_id": "tt0054777",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 60,
+    "fetched_at": "2025-12-13T16:17:47.294Z"
+  },
+  "tt0055353": {
+    "imdb_id": "tt0055353",
+    "metascore": 87,
+    "imdb": 8,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:47.347Z"
+  },
+  "tt0055630": {
+    "imdb_id": "tt0055630",
+    "metascore": 93,
+    "imdb": 8.2,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:47.401Z"
+  },
+  "tt0055558": {
+    "imdb_id": "tt0055558",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:47.422Z"
+  },
+  "tt0055257": {
+    "imdb_id": "tt0055257",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 65,
+    "fetched_at": "2025-12-13T16:17:47.483Z"
+  },
+  "tt0054687": {
+    "imdb_id": "tt0054687",
+    "metascore": 75,
+    "imdb": 7.4,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:47.570Z"
+  },
+  "tt0054225": {
+    "imdb_id": "tt0054225",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:47.585Z"
+  },
+  "tt0054938": {
+    "imdb_id": "tt0054938",
+    "metascore": null,
+    "imdb": 5.6,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:47.617Z"
+  },
+  "tt0055093": {
+    "imdb_id": "tt0055093",
+    "metascore": 73,
+    "imdb": 7.4,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:47.636Z"
+  },
+  "tt0055184": {
+    "imdb_id": "tt0055184",
+    "metascore": 77,
+    "imdb": 7.2,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:47.694Z"
+  },
+  "tt0056405": {
+    "imdb_id": "tt0056405",
+    "metascore": null,
+    "imdb": 3.6,
+    "rt": 33,
+    "fetched_at": "2025-12-13T16:17:47.699Z"
+  },
+  "tt0054130": {
+    "imdb_id": "tt0054130",
+    "metascore": null,
+    "imdb": 7.9,
+    "rt": 84,
+    "fetched_at": "2025-12-13T16:17:47.755Z"
+  },
+  "tt0055153": {
+    "imdb_id": "tt0055153",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:47.781Z"
+  },
+  "tt0054749": {
+    "imdb_id": "tt0054749",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:47.817Z"
+  },
+  "tt0053804": {
+    "imdb_id": "tt0053804",
+    "metascore": 70,
+    "imdb": 6.7,
+    "rt": 65,
+    "fetched_at": "2025-12-13T16:17:47.834Z"
+  },
+  "tt0054357": {
+    "imdb_id": "tt0054357",
+    "metascore": 61,
+    "imdb": 7.1,
+    "rt": 81,
+    "fetched_at": "2025-12-13T16:17:47.917Z"
+  },
+  "tt0054389": {
+    "imdb_id": "tt0054389",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 90,
+    "fetched_at": "2025-12-13T16:17:47.923Z"
+  },
+  "tt0056049": {
+    "imdb_id": "tt0056049",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:47.985Z"
+  },
+  "tt0150980": {
+    "imdb_id": "tt0150980",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.000Z"
+  },
+  "tt0054084": {
+    "imdb_id": "tt0054084",
+    "metascore": 60,
+    "imdb": 6.8,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:48.026Z"
+  },
+  "tt0054452": {
+    "imdb_id": "tt0054452",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:48.063Z"
+  },
+  "tt0054047": {
+    "imdb_id": "tt0054047",
+    "metascore": 74,
+    "imdb": 7.7,
+    "rt": 89,
+    "fetched_at": "2025-12-13T16:17:48.089Z"
+  },
+  "tt0053270": {
+    "imdb_id": "tt0053270",
+    "metascore": 86,
+    "imdb": 7.2,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.097Z"
+  },
+  "tt0054269": {
+    "imdb_id": "tt0054269",
+    "metascore": null,
+    "imdb": 7.5,
+    "rt": 87,
+    "fetched_at": "2025-12-13T16:17:48.120Z"
+  },
+  "tt0054248": {
+    "imdb_id": "tt0054248",
+    "metascore": 84,
+    "imdb": 8.2,
+    "rt": 91,
+    "fetched_at": "2025-12-13T16:17:48.177Z"
+  },
+  "tt0053619": {
+    "imdb_id": "tt0053619",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:48.245Z"
+  },
+  "tt0053925": {
+    "imdb_id": "tt0053925",
+    "metascore": 75,
+    "imdb": 6.9,
+    "rt": 83,
+    "fetched_at": "2025-12-13T16:17:48.247Z"
+  },
+  "tt0054460": {
+    "imdb_id": "tt0054460",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.289Z"
+  },
+  "tt0053719": {
+    "imdb_id": "tt0053719",
+    "metascore": null,
+    "imdb": 6.7,
+    "rt": 75,
+    "fetched_at": "2025-12-13T16:17:48.314Z"
+  },
+  "tt0053793": {
+    "imdb_id": "tt0053793",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 94,
+    "fetched_at": "2025-12-13T16:17:48.344Z"
+  },
+  "tt0054371": {
+    "imdb_id": "tt0054371",
+    "metascore": null,
+    "imdb": 6.9,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.346Z"
+  },
+  "tt0154683": {
+    "imdb_id": "tt0154683",
+    "metascore": null,
+    "imdb": 6.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:48.384Z"
+  },
+  "tt0054067": {
+    "imdb_id": "tt0054067",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:48.414Z"
+  },
+  "tt0053106": {
+    "imdb_id": "tt0053106",
+    "metascore": null,
+    "imdb": 7.8,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:48.415Z"
+  },
+  "tt0054038": {
+    "imdb_id": "tt0054038",
+    "metascore": null,
+    "imdb": 5.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:48.452Z"
+  },
+  "tt0054292": {
+    "imdb_id": "tt0054292",
+    "metascore": null,
+    "imdb": 7.4,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:48.486Z"
+  },
+  "tt0053946": {
+    "imdb_id": "tt0053946",
+    "metascore": 75,
+    "imdb": 8.1,
+    "rt": 93,
+    "fetched_at": "2025-12-13T16:17:48.528Z"
+  },
+  "tt0054387": {
+    "imdb_id": "tt0054387",
+    "metascore": 67,
+    "imdb": 7.5,
+    "rt": 76,
+    "fetched_at": "2025-12-13T16:17:48.553Z"
+  },
+  "tt0053677": {
+    "imdb_id": "tt0053677",
+    "metascore": 64,
+    "imdb": 6.6,
+    "rt": 79,
+    "fetched_at": "2025-12-13T16:17:48.602Z"
+  },
+  "tt0053559": {
+    "imdb_id": "tt0053559",
+    "metascore": 56,
+    "imdb": 6.1,
+    "rt": 29,
+    "fetched_at": "2025-12-13T16:17:48.628Z"
+  },
+  "tt0054428": {
+    "imdb_id": "tt0054428",
+    "metascore": null,
+    "imdb": 6.5,
+    "rt": 67,
+    "fetched_at": "2025-12-13T16:17:48.678Z"
+  },
+  "tt0053472": {
+    "imdb_id": "tt0053472",
+    "metascore": 96,
+    "imdb": 7.7,
+    "rt": 95,
+    "fetched_at": "2025-12-13T16:17:48.702Z"
+  },
+  "tt0054167": {
+    "imdb_id": "tt0054167",
+    "metascore": null,
+    "imdb": 7.6,
+    "rt": 96,
+    "fetched_at": "2025-12-13T16:17:48.711Z"
+  },
+  "tt0052698": {
+    "imdb_id": "tt0052698",
+    "metascore": 84,
+    "imdb": 7.5,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.746Z"
+  },
+  "tt0054377": {
+    "imdb_id": "tt0054377",
+    "metascore": 75,
+    "imdb": 7.2,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:48.780Z"
+  },
+  "tt0052832": {
+    "imdb_id": "tt0052832",
+    "metascore": null,
+    "imdb": 7.1,
+    "rt": 59,
+    "fetched_at": "2025-12-13T16:17:48.789Z"
+  },
+  "tt0054407": {
+    "imdb_id": "tt0054407",
+    "metascore": null,
+    "imdb": 8.5,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:48.825Z"
+  },
+  "tt0054310": {
+    "imdb_id": "tt0054310",
+    "metascore": null,
+    "imdb": 7.2,
+    "rt": 86,
+    "fetched_at": "2025-12-13T16:17:48.855Z"
+  },
+  "tt0053729": {
+    "imdb_id": "tt0053729",
+    "metascore": null,
+    "imdb": 7,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.869Z"
+  },
+  "tt0054189": {
+    "imdb_id": "tt0054189",
+    "metascore": null,
+    "imdb": 7.7,
+    "rt": 92,
+    "fetched_at": "2025-12-13T16:17:48.883Z"
+  },
+  "tt0053976": {
+    "imdb_id": "tt0053976",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 88,
+    "fetched_at": "2025-12-13T16:17:48.924Z"
+  },
+  "tt0053643": {
+    "imdb_id": "tt0053643",
+    "metascore": null,
+    "imdb": 7.3,
+    "rt": null,
+    "fetched_at": "2025-12-13T16:17:48.954Z"
+  },
+  "tt0054144": {
+    "imdb_id": "tt0054144",
+    "metascore": null,
+    "imdb": 8,
+    "rt": 100,
+    "fetched_at": "2025-12-13T16:17:48.999Z"
+  },
+  "tt0053459": {
+    "imdb_id": "tt0053459",
+    "metascore": 90,
+    "imdb": 7.6,
+    "rt": 97,
+    "fetched_at": "2025-12-13T16:17:49.066Z"
   }
 }

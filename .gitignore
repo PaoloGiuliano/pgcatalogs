@@ -1,6 +1,7 @@
-addon-server/.env
+addon-server/node-modules
+addon-server/generated
+addon-server/old
 addon-server/.env
 node_modules/
+addons
 .env
-addon-server/.env
-node_modules/
