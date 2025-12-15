@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<h1>Welcome, <%= user.display_name %></h1>
+
+<h2>Your PG Catalogs Addon</h2>
+
+<p>Install your personal Stremio addon using the link below:</p>
+
+<p>
+  <a href="stremio://pgcatalogs.duckdns.org/addon/user/<%= user.user_uuid %>/manifest.json" target="_blank">
+    Install
+  </a>
+</p>
+
+<p>
+  <a href="https://web.stremio.com/#/addons?addon=<%= installUrl %>" target="_blank">
+    Install (Web)
+  </a>
+</p>
+
+<button onclick="navigator.clipboard.writeText('<%= installUrl %>')">
+  Copy Install Link
+</button>
+
+<h2>Catalogs</h2>
+<p><a href="/catalogs">View Your Catalogs</a></p>
+<p><a href="/catalogs/new">Create New Catalog</a></p>
+
+<p>
+  <a href="https://pgcatalogs.duckdns.org/logout">Logout</a>
+</p>
+
+</body>
+</html>
+

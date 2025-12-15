@@ -1,7 +1,40 @@
-addon-server/node-modules
-addon-server/generated
-addon-server/old
-addon-server/.env
+# --- Dependencies ---
 node_modules/
-addons
+
+# --- Environment ---
 .env
+**/.env
+
+# --- Runtime / Generated ---
+**/logs/
+**/*.log
+**/generated/
+**/data/*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.db-wal
+**/*.db-shm
+**/posters/
+
+# --- Build artifacts ---
+dist/
+build/
+
+# --- Process managers ---
+pids/
+*.pid
+*.seed
+*.dump
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Debug ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

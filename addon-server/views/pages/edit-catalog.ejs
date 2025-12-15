@@ -1,0 +1,91 @@
+<h1>Edit Catalog: <%= catalog.name %></h1>
+
+<form method="POST" action="/catalogs/<%= catalog.id %>/edit">
+
+    <label>Catalog Name (no spaces)</label><br>
+    <input
+        name="name"
+        value="<%= catalog.name %>"
+        required
+        pattern="^[A-Za-z0-9_-]+$"
+    ><br><br>
+
+    <label>Start Year (1900-2100)</label><br>
+    <input
+        type="number"
+        name="start_year"
+        min="1900"
+        max="2100"
+        value="<%= config.start_year %>"
+        required
+    ><br><br>
+
+    <label>End Year (1900-2100)</label><br>
+    <input
+        type="number"
+        name="end_year"
+        min="1900"
+        max="2100"
+        value="<%= config.end_year %>"
+        required
+    ><br><br>
+
+    <label>Pages to fetch (1-50)</label><br>
+    <input
+        type="number"
+        name="pages"
+        min="1"
+        max="50"
+        value="<%= config.pages %>"
+        required
+    ><br><br>
+
+    <label>Language</label><br>
+    <select name="language" required>
+        <% languages.forEach(lang => { %>
+            <option
+                value="<%= lang %>"
+                <%= config.language === lang ? "selected" : "" %>
+            >
+                <%= lang %>
+            </option>
+        <% }) %>
+    </select><br><br>
+
+    <label>Sort Order</label><br>
+    <select name="sort_order" required>
+        <% sortOrders.forEach(o => { %>
+            <option
+                value="<%= o %>"
+                <%= config.sort_order === o ? "selected" : "" %>
+            >
+                <%= o %>
+            </option>
+        <% }) %>
+    </select><br><br>
+
+    <label>Select Genres</label><br>
+    <% genreList.forEach(g => { %>
+        <input
+            type="checkbox"
+            name="genres"
+            value="<%= g %>"
+            <%= config.genres.includes(g) ? "checked" : "" %>
+        >
+        <%= g.charAt(0).toUpperCase() + g.slice(1) %><br>
+    <% }) %>
+    <br>
+
+    <label>Minimum critic score (0-100)</label><br>
+    <input
+        type="number"
+        name="min_critic_score"
+        min="0"
+        max="100"
+        value="<%= config.min_critic_score ?? "" %>"
+    ><br><br>
+
+    <button type="submit">Save Changes</button>
+</form>
+
+<p><a href="/catalogs">Back</a></p>

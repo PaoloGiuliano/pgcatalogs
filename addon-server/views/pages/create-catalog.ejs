@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Create Catalog</h1>
+
+        <form method="POST" action="/catalogs/new">
+
+            <label>Catalog Name (no spaces)</label><br>
+            <input name="name" required pattern="^[A-Za-z0-9_-]+$"><br><br>
+
+            <label>Start Year (1900-2100)</label><br>
+            <input type="number" name="start_year" min="1900" max="2100" required><br><br>
+
+            <label>End Year (1900-2100)</label><br>
+            <input type="number" name="end_year" min="1900" max="2100" required><br><br>
+
+            <label>Pages to fetch (1-50)</label><br>
+            <input type="number" name="pages" min="1" max="50" required><br><br>
+
+            <label>Language</label><br>
+            <select name="language" required>
+                <option value="en-US">en-US</option>
+                <option value="en-GB">en-GB</option>
+                <option value="fr-FR">fr-FR</option>
+                <option value="es-ES">es-ES</option>
+                <option value="de-DE">de-DE</option>
+                <option value="it-IT">it-IT</option>
+                <option value="ja-JP">ja-JP</option>
+                <option value="ko-KR">ko-KR</option>
+                <option value="zh-CN">zh-CN</option>
+            </select><br><br>
+
+            <label>Sort Order</label><br>
+            <select name="sort_order" required>
+                <option>original_title.asc</option>
+                <option>original_title.desc</option>
+                <option>popularity.asc</option>
+                <option>popularity.desc</option>
+                <option>revenue.asc</option>
+                <option>revenue.desc</option>
+                <option>primary_release_date.asc</option>
+                <option>primary_release_date.desc</option>
+                <option>title.asc</option>
+                <option>title.desc</option>
+            </select><br><br>
+
+<label>Select Genres</label><br>
+
+<input type="checkbox" name="genres" value="action"> Action<br>
+<input type="checkbox" name="genres" value="adventure"> Adventure<br>
+<input type="checkbox" name="genres" value="animation"> Animation<br>
+<input type="checkbox" name="genres" value="comedy"> Comedy<br>
+<input type="checkbox" name="genres" value="crime"> Crime<br>
+<input type="checkbox" name="genres" value="documentary"> Documentary<br>
+<input type="checkbox" name="genres" value="drama"> Drama<br>
+<input type="checkbox" name="genres" value="family"> Family<br>
+<input type="checkbox" name="genres" value="fantasy"> Fantasy<br>
+<input type="checkbox" name="genres" value="history"> History<br>
+<input type="checkbox" name="genres" value="horror"> Horror<br>
+<input type="checkbox" name="genres" value="music"> Music<br>
+<input type="checkbox" name="genres" value="mystery"> Mystery<br>
+<input type="checkbox" name="genres" value="romance"> Romance<br>
+<input type="checkbox" name="genres" value="science fiction"> Science Fiction<br>
+<input type="checkbox" name="genres" value="thriller"> Thriller<br>
+<input type="checkbox" name="genres" value="tv movie"> TV Movie<br>
+<input type="checkbox" name="genres" value="war"> War<br>
+<input type="checkbox" name="genres" value="western"> Western<br><br>
+
+            <label>Minimum critic score (0-100)</label><br>
+            <input type="number" name="min_critic_score" min="0" max="100"><br><br>
+
+            <button type="submit">Create Catalog</button>
+        </form>
+
+        <p><a href="/dashboard">Back</a></p>    
+</body>
+</html>

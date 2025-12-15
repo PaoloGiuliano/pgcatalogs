@@ -9,11 +9,13 @@ const app = express();
 // CONFIG — directories
 // ----------------------------------
 const RATINGS_FILE = path.join(__dirname, "../catalog-builder/ratings.json");
-const POSTERS_DIR  = path.join(__dirname, "posters");
-const LOGOS_DIR    = path.join(__dirname, "logos");
+const POSTERS_DIR = path.join(__dirname, "posters");
+const LOGOS_DIR = path.join(__dirname, "logos");
 const FALLBACK_POSTER = path.join(__dirname, "fallback.jpg");
 let fallbackPosterBuf = null;
-fallbackPosterBuf = fs.existsSync(FALLBACK_POSTER) ? fs.readFileSync(FALLBACK_POSTER) : null;
+fallbackPosterBuf = fs.existsSync(FALLBACK_POSTER)
+  ? fs.readFileSync(FALLBACK_POSTER)
+  : null;
 
 if (!fs.existsSync(POSTERS_DIR)) {
   fs.mkdirSync(POSTERS_DIR, { recursive: true });
@@ -46,6 +48,7 @@ function loadRatings() {
   if (now - lastRatingsLoad > 10_000) {
     if (fs.existsSync(RATINGS_FILE)) {
       ratingsCache = JSON.parse(fs.readFileSync(RATINGS_FILE, "utf8"));
+      console.log("updated ratings");
     }
     lastRatingsLoad = now;
   }
@@ -100,9 +103,7 @@ async function preloadLogos() {
     const fullPath = path.join(LOGOS_DIR, filename);
 
     // Resize once → store buffer in memory
-    logoCache[filename] = await sharp(fullPath)
-      .resize(null, 40)
-      .toBuffer();
+    logoCache[filename] = await sharp(fullPath).resize(null, 40).toBuffer();
   }
 
   console.log("Logos preloaded.");
@@ -171,7 +172,7 @@ async function generatePosterBuffer(tmdbId) {
       </svg>
     `),
     top: 0,
-    left: 0
+    left: 0,
   });
 
   // Build rating overlays
@@ -185,7 +186,7 @@ async function generatePosterBuffer(tmdbId) {
     composites.push({
       input: logoBuf,
       top: logoY,
-      left: Math.floor(centerX - LOGO_H * 1.1)
+      left: Math.floor(centerX - LOGO_H * 1.1),
     });
 
     textSvgParts.push(`
@@ -207,13 +208,10 @@ async function generatePosterBuffer(tmdbId) {
       </svg>
     `),
     top: 0,
-    left: 0
+    left: 0,
   });
 
-  return sharp(base)
-    .composite(composites)
-    .jpeg({ quality: 90 })
-    .toBuffer();
+  return sharp(base).composite(composites).jpeg({ quality: 90 }).toBuffer();
 }
 
 // ----------------------------------
@@ -225,18 +223,19 @@ app.get("/posters/:tmdbId.jpg", async (req, res) => {
 
   try {
     if (fs.existsSync(targetPath)) {
-      res.setHeader("Cache-Control", "public, max-age=31536000, immutable");
+      res.setHeader("Cache-Control", "public, max-age=300");
       return res.sendFile(targetPath);
     }
 
     console.log(`Generating poster for TMDB ID ${tmdbId}`);
     const buf = await generatePosterBuffer(tmdbId);
 
-    fs.writeFileSync(targetPath, buf);
+    const tmpPath = `${targetPath}.tmp`;
+    fs.writeFileSync(tmpPath, buf);
+    fs.renameSync(tmpPath, targetPath);
     res.setHeader("Content-Type", "image/jpeg");
-    res.setHeader("Cache-Control", "public, max-age=31536000, immutable");
+    res.setHeader("Cache-Control", "public, max-age=300");
     res.send(buf);
-
   } catch (err) {
     console.error(`Error for TMDB ID ${tmdbId}:`, err.message);
     res.status(500).send("Error generating poster");
@@ -250,6 +249,7 @@ app.get("/posters/:tmdbId.jpg", async (req, res) => {
   await preloadLogos();
 
   const PORT = process.env.PORT || 7000;
-  app.listen(PORT, () => console.log(`Poster server listening on port ${PORT}`));
+  app.listen(PORT, () =>
+    console.log(`Poster server listening on port ${PORT}`)
+  );
 })();
-

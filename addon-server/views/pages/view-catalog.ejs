@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Your Catalogs</h1>
+    <p><a href="/catalogs/new">Create New Catalog</a></p>
+
+    <% if (catalogs.length === 0) { %>
+        <p>No catalogs yet.</p>
+       
+    <% } %>
+
+    <ul>
+    <%for (const c of catalogs) { %>
+        
+            <li>
+                <strong><%=c.name%></strong>
+                <br>
+                <a href="/catalogs/<%=c.id%>/edit">Edit</a> |
+                <a href="/catalogs/<%=c.id%>/delete" onclick="return confirm('Delete this catalog?');">Delete</a>
+            </li>
+            <br>
+        
+    <% } %>
+    </ul>
+    <p><a href='https://pgcatalogs.duckdns.org/dashboard'>back</a></p>
+    
+</body>
+</html>
