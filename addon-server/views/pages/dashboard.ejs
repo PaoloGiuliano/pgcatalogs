@@ -1,39 +1,67 @@
-<!doctype html>
-<html>
-<head>
-</head>
-<body>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="/css/dashboard.css" />
+  </head>
+  <body>
+    <div class="dashboard-container">
+      <!-- Header -->
+      <header class="header">
+        <div class="logo">
+          <span class="logo-box">PG</span>
+          <span class="logo-text">PGCatalogs</span>
+        </div>
+        <a class="logout" href="https://pgcatalogs.duckdns.org/logout"
+          >Logout</a
+        >
+      </header>
 
-<h1>Welcome, <%= user.display_name %></h1>
+      <!-- Welcome -->
+      <h1>Welcome, <%= user.display_name %></h1>
 
-<h2>Your PG Catalogs Addon</h2>
+      <!-- Addon Section -->
+      <section class="card">
+        <h2>Your PG Catalogs Addon</h2>
+        <p>
+          Install your personal Stremio addon using one of the options below.
+        </p>
 
-<p>Install your personal Stremio addon using the link below:</p>
+        <div class="actions">
+          <a
+            class="primary-btn"
+            href="stremio://pgcatalogs.duckdns.org/addon/user/<%= user.user_uuid %>/manifest.json"
+            target="_blank"
+          >
+            Install (App)
+          </a>
 
-<p>
-  <a href="stremio://pgcatalogs.duckdns.org/addon/user/<%= user.user_uuid %>/manifest.json" target="_blank">
-    Install
-  </a>
-</p>
+          <a
+            class="secondary-btn"
+            href="https://web.stremio.com/#/addons?addon=<%= installUrl %>"
+            target="_blank"
+          >
+            Install (Web)
+          </a>
 
-<p>
-  <a href="https://web.stremio.com/#/addons?addon=<%= installUrl %>" target="_blank">
-    Install (Web)
-  </a>
-</p>
+          <button
+            class="secondary-btn"
+            onclick="navigator.clipboard.writeText('<%= installUrl %>')"
+          >
+            Copy Install Link
+          </button>
+        </div>
+      </section>
 
-<button onclick="navigator.clipboard.writeText('<%= installUrl %>')">
-  Copy Install Link
-</button>
-
-<h2>Catalogs</h2>
-<p><a href="/catalogs">View Your Catalogs</a></p>
-<p><a href="/catalogs/new">Create New Catalog</a></p>
-
-<p>
-  <a href="https://pgcatalogs.duckdns.org/logout">Logout</a>
-</p>
-
-</body>
+      <!-- Catalogs Section -->
+      <section class="card">
+        <h2>Catalogs</h2>
+        <div class="links">
+          <a href="/catalogs">View Your Catalogs</a>
+          <a href="/catalogs/new">Create New Catalog</a>
+        </div>
+      </section>
+    </div>
+  </body>
 </html>
-

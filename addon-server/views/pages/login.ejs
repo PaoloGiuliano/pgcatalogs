@@ -1,10 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
     <title>Login</title>
+    <link rel="stylesheet" href="/css/login.css" />
   </head>
   <body>
-    <h1>Login</h1>
-    <a href="/auth/google">Login with Google</a>
+    <div class="login-container">
+      <!-- Logo -->
+      <svg
+        class="logo"
+        width="260"
+        height="70"
+        viewBox="0 0 320 80"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <defs>
+          <linearGradient id="pgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#1d2671" />
+            <stop offset="100%" stop-color="#c33764" />
+          </linearGradient>
+        </defs>
+
+        <rect
+          x="0"
+          y="10"
+          rx="12"
+          ry="12"
+          width="60"
+          height="60"
+          fill="url(#pgGradient)"
+        />
+
+        <text
+          x="30"
+          y="50"
+          text-anchor="middle"
+          fill="#ffffff"
+          font-size="28"
+          font-weight="700"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          PG
+        </text>
+
+        <text
+          x="80"
+          y="52"
+          fill="#333333"
+          font-size="34"
+          font-weight="700"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          PGCatalogs
+        </text>
+      </svg>
+
+      <h1>Sign In</h1>
+
+      <a class="google-btn" href="/auth/google"> Continue with Google </a>
+    </div>
   </body>
 </html>

@@ -1,34 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <h1>Your Catalogs</h1>
-    <p><a href="/catalogs/new">Create New Catalog</a></p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Catalogs</title>
+    <link rel="stylesheet" href="/css/view-catalog.css" />
+  </head>
+  <body>
+    <div class="page-container">
+      <!-- Header -->
+      <header class="header">
+        <h1>Your Catalogs</h1>
+        <a class="primary-btn" href="/catalogs/new">Create New Catalog</a>
+      </header>
 
-    <% if (catalogs.length === 0) { %>
-        <p>No catalogs yet.</p>
-       
-    <% } %>
+      <!-- Empty State -->
+      <% if (catalogs.length === 0) { %>
+      <div class="card">
+        <p class="empty">No catalogs yet.</p>
+      </div>
+      <% } %>
 
-    <ul>
-    <%for (const c of catalogs) { %>
-        
-            <li>
-                <strong><%=c.name%></strong>
-                <br>
-                <a href="/catalogs/<%=c.id%>/edit">Edit</a> |
-                <a href="/catalogs/<%=c.id%>/delete" onclick="return confirm('Delete this catalog?');">Delete</a>
-            </li>
-            <br>
-        
-    <% } %>
-    </ul>
-    <p><a href='https://pgcatalogs.duckdns.org/dashboard'>back</a></p>
-    
-</body>
+      <!-- Catalog List -->
+      <% if (catalogs.length > 0) { %>
+      <ul class="catalog-list">
+        <% for (const c of catalogs) { %>
+        <li class="catalog-item">
+          <div class="catalog-info">
+            <strong><%= c.name %></strong>
+          </div>
+
+          <div class="catalog-actions">
+            <a href="/catalogs/<%= c.id %>/edit">Edit</a>
+            <a
+              class="danger"
+              href="/catalogs/<%= c.id %>/delete"
+              onclick="return confirm('Delete this catalog?');"
+            >
+              Delete
+            </a>
+          </div>
+        </li>
+        <% } %>
+      </ul>
+      <% } %>
+
+      <a class="back-link" href="https://pgcatalogs.duckdns.org/dashboard">
+        ← Back to Dashboard
+      </a>
+    </div>
+  </body>
 </html>

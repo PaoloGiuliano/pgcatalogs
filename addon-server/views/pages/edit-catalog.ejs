@@ -1,91 +1,150 @@
-<h1>Edit Catalog: <%= catalog.name %></h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit Catalog</title>
+    <link rel="stylesheet" href="/css/edit-catalog.css" />
+  </head>
+  <body>
+    <div class="page-container">
 
-<form method="POST" action="/catalogs/<%= catalog.id %>/edit">
+      <h1>Edit Catalog: <%= catalog.name %></h1>
 
-    <label>Catalog Name (no spaces)</label><br>
-    <input
-        name="name"
-        value="<%= catalog.name %>"
-        required
-        pattern="^[A-Za-z0-9_-]+$"
-    ><br><br>
+      <form
+        class="catalog-form"
+        method="POST"
+        action="/catalogs/<%= catalog.id %>/edit"
+      >
 
-    <label>Start Year (1900-2100)</label><br>
-    <input
-        type="number"
-        name="start_year"
-        min="1900"
-        max="2100"
-        value="<%= config.start_year %>"
-        required
-    ><br><br>
+        <!-- Basic Info -->
+        <div class="form-section">
+          <h2>Basic Information</h2>
 
-    <label>End Year (1900-2100)</label><br>
-    <input
-        type="number"
-        name="end_year"
-        min="1900"
-        max="2100"
-        value="<%= config.end_year %>"
-        required
-    ><br><br>
+          <label>
+            Catalog Name (no spaces)
+            <input
+              name="name"
+              value="<%= catalog.name %>"
+              required
+              pattern="^[A-Za-z0-9_-]+$"
+            />
+          </label>
 
-    <label>Pages to fetch (1-50)</label><br>
-    <input
-        type="number"
-        name="pages"
-        min="1"
-        max="50"
-        value="<%= config.pages %>"
-        required
-    ><br><br>
+          <div class="row">
+            <label>
+              Start Year
+              <input
+                type="number"
+                name="start_year"
+                min="1900"
+                max="2100"
+                value="<%= config.start_year %>"
+                required
+              />
+            </label>
 
-    <label>Language</label><br>
-    <select name="language" required>
-        <% languages.forEach(lang => { %>
-            <option
-                value="<%= lang %>"
-                <%= config.language === lang ? "selected" : "" %>
-            >
-                <%= lang %>
-            </option>
-        <% }) %>
-    </select><br><br>
+            <label>
+              End Year
+              <input
+                type="number"
+                name="end_year"
+                min="1900"
+                max="2100"
+                value="<%= config.end_year %>"
+                required
+              />
+            </label>
+          </div>
 
-    <label>Sort Order</label><br>
-    <select name="sort_order" required>
-        <% sortOrders.forEach(o => { %>
-            <option
-                value="<%= o %>"
-                <%= config.sort_order === o ? "selected" : "" %>
-            >
-                <%= o %>
-            </option>
-        <% }) %>
-    </select><br><br>
+          <label>
+            Pages to Fetch
+            <input
+              type="number"
+              name="pages"
+              min="1"
+              max="50"
+              value="<%= config.pages %>"
+              required
+            />
+          </label>
+        </div>
 
-    <label>Select Genres</label><br>
-    <% genreList.forEach(g => { %>
-        <input
-            type="checkbox"
-            name="genres"
-            value="<%= g %>"
-            <%= config.genres.includes(g) ? "checked" : "" %>
-        >
-        <%= g.charAt(0).toUpperCase() + g.slice(1) %><br>
-    <% }) %>
-    <br>
+        <!-- Settings -->
+        <div class="form-section">
+          <h2>Settings</h2>
 
-    <label>Minimum critic score (0-100)</label><br>
-    <input
-        type="number"
-        name="min_critic_score"
-        min="0"
-        max="100"
-        value="<%= config.min_critic_score ?? "" %>"
-    ><br><br>
+          <label>
+            Language
+            <select name="language" required>
+              <% languages.forEach(lang => { %>
+                <option
+                  value="<%= lang %>"
+                  <%= config.language === lang ? "selected" : "" %>
+                >
+                  <%= lang %>
+                </option>
+              <% }) %>
+            </select>
+          </label>
 
-    <button type="submit">Save Changes</button>
-</form>
+          <label>
+            Sort Order
+            <select name="sort_order" required>
+              <% sortOrders.forEach(o => { %>
+                <option
+                  value="<%= o %>"
+                  <%= config.sort_order === o ? "selected" : "" %>
+                >
+                  <%= o %>
+                </option>
+              <% }) %>
+            </select>
+          </label>
+        </div>
 
-<p><a href="/catalogs">Back</a></p>
+        <!-- Genres -->
+        <div class="form-section">
+          <h2>Genres</h2>
+
+          <div class="checkbox-grid">
+            <% genreList.forEach(g => { %>
+              <label>
+                <input
+                  type="checkbox"
+                  name="genres"
+                  value="<%= g %>"
+                  <%= config.genres.includes(g) ? "checked" : "" %>
+                />
+                <%= g.charAt(0).toUpperCase() + g.slice(1) %>
+              </label>
+            <% }) %>
+          </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="form-section">
+          <h2>Filters</h2>
+
+          <label>
+            Minimum Critic Score (0–100)
+            <input
+              type="number"
+              name="min_critic_score"
+              min="0"
+              max="100"
+              value="<%= config.min_critic_score ?? "" %>"
+            />
+          </label>
+        </div>
+
+        <!-- Actions -->
+        <div class="form-actions">
+          <button type="submit" class="primary-btn">Save Changes</button>
+          <a class="secondary-btn" href="/catalogs">Back</a>
+        </div>
+
+      </form>
+    </div>
+  </body>
+</html>
